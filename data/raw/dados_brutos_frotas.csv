@@ -1,0 +1,1001 @@
+id_chamado,id_ativo,categoria_equipamento,filial_operacao,dt_abertura_chamado,sla_prometido_horas,tempo_atendimento_horas,custo_manutencao,status_ativo
+CH-10000,EQP-202,Utilitário Leve,Uberlândia,2026-04-23 11:00:00,24,8.5,1944.4,Em Operação
+CH-10001,EQP-279,Caminhão Heavy Duty,Ribeirão Preto,2026-02-16 10:00:00,48,111.9,3651.74,Em Operação
+CH-10002,EQP-192,Utilitário Leve,Uberlândia,2026-02-26 16:00:00,24,12.7,6361.5,Em Manutenção
+CH-10003,EQP-114,Escavadeira Linha Amarela,Cuiabá,2026-04-28 03:00:00,72,12.3,9051.79,Em Operação
+CH-10004,EQP-206,Trator Agro,Ribeirão Preto,2026-02-14 14:00:00,72,11.2,10087.41,Em Operação
+CH-10005,EQP-171,Caminhão Heavy Duty,Cuiabá,2026-06-10 08:00:00,72,3.9,8540.72,Em Operação
+CH-10006,EQP-288,Caminhão Heavy Duty,Jundiaí,2026-05-25 20:00:00,24,3.5,11164.58,Em Operação
+CH-10007,EQP-120,Trator Agro,Mogi das Cruzes,2026-01-04 19:00:00,48,31.3,8943.3,Em Operação
+CH-10008,EQP-202,Utilitário Leve,Ribeirão Preto,2026-05-28 18:00:00,48,62.4,3883.33,Em Operação
+CH-10009,EQP-221,Trator Agro,Jundiaí,2026-02-16 18:00:00,24,46.9,3401.45,Em Manutenção
+CH-10010,EQP-174,Utilitário Leve,Jundiaí,2026-05-23 11:00:00,24,4.6,8445.45,Em Manutenção
+CH-10011,EQP-187,Trator Agro,Ribeirão Preto,2026-02-16 04:00:00,48,23.7,2556.59,Em Operação
+CH-10012,EQP-216,Escavadeira Linha Amarela,Cuiabá,2026-03-19 09:00:00,48,3.3,1384.76,Em Operação
+CH-10013,EQP-199,Utilitário Leve,Jundiaí,2026-05-04 16:00:00,48,1.4,6527.01,Em Operação
+CH-10014,EQP-203,Escavadeira Linha Amarela,Uberlândia,2026-03-16 04:00:00,48,32.0,9913.21,Em Operação
+CH-10015,EQP-251,Caminhão Heavy Duty,Jundiaí,2026-04-13 21:00:00,24,23.0,1486.14,Em Operação
+CH-10016,EQP-230,Trator Agro,Cuiabá,2026-05-17 15:00:00,24,2.6,9565.13,Em Operação
+CH-10017,EQP-249,Caminhão Heavy Duty,Cuiabá,2026-03-31 06:00:00,72,1.1,9795.39,Em Manutenção
+CH-10018,EQP-152,Caminhão Heavy Duty,Uberlândia,2026-05-24 08:00:00,48,137.4,5942.61,Em Manutenção
+CH-10019,EQP-101,Caminhão Heavy Duty,Jundiaí,2026-03-10 02:00:00,72,0.9,970.53,Em Operação
+CH-10020,EQP-187,Caminhão Heavy Duty,Cuiabá,2026-03-02 14:00:00,24,17.6,2342.7,Em Operação
+CH-10021,EQP-257,Trator Agro,Ribeirão Preto,2026-05-18 15:00:00,24,21.1,8576.89,Em Operação
+CH-10022,EQP-137,Caminhão Heavy Duty,Mogi das Cruzes,2026-02-19 17:00:00,72,3.7,8627.8,Em Operação
+CH-10023,EQP-229,Trator Agro,Mogi das Cruzes,2026-01-03 13:00:00,48,5.6,10810.76,Em Operação
+CH-10024,EQP-291,Trator Agro,Mogi das Cruzes,2026-04-17 02:00:00,48,13.0,7117.43,Em Operação
+CH-10025,EQP-287,Escavadeira Linha Amarela,Jundiaí,2026-04-23 11:00:00,48,43.0,1752.06,Em Operação
+CH-10026,EQP-120,Utilitário Leve,Uberlândia,2026-04-04 08:00:00,48,21.2,1720.55,Em Operação
+CH-10027,EQP-260,Utilitário Leve,Cuiabá,2026-04-28 06:00:00,72,30.5,8737.25,Em Operação
+CH-10028,EQP-157,Trator Agro,Ribeirão Preto,2026-03-22 08:00:00,72,126.3,2450.28,Em Operação
+CH-10029,EQP-121,Escavadeira Linha Amarela,Ribeirão Preto,2026-04-19 12:00:00,24,43.8,4142.11,Em Operação
+CH-10030,EQP-188,Trator Agro,Jundiaí,2026-02-20 17:00:00,48,17.1,6000.38,Em Operação
+CH-10031,EQP-148,Trator Agro,Mogi das Cruzes,2026-05-27 04:00:00,48,17.7,589.75,Em Operação
+CH-10032,EQP-158,Trator Agro,Jundiaí,2026-06-19 12:00:00,48,28.9,3211.18,Em Manutenção
+CH-10033,EQP-269,Escavadeira Linha Amarela,Uberlândia,2026-02-04 03:00:00,72,32.8,5072.31,Em Operação
+CH-10034,EQP-287,Utilitário Leve,Uberlândia,2026-02-15 01:00:00,48,20.8,3571.74,Em Operação
+CH-10035,EQP-114,Escavadeira Linha Amarela,Cuiabá,2026-06-03 15:00:00,72,31.1,1895.53,Em Operação
+CH-10036,EQP-289,Caminhão Heavy Duty,Cuiabá,2026-03-10 08:00:00,48,0.7,8817.74,Em Operação
+CH-10037,EQP-289,Escavadeira Linha Amarela,Uberlândia,2026-04-03 08:00:00,48,16.8,9813.83,Em Operação
+CH-10038,EQP-274,Escavadeira Linha Amarela,Uberlândia,2026-03-05 05:00:00,24,9.8,3312.5,Em Operação
+CH-10039,EQP-289,Escavadeira Linha Amarela,Uberlândia,2026-06-14 10:00:00,48,4.1,9360.71,Em Operação
+CH-10040,EQP-150,Escavadeira Linha Amarela,Jundiaí,2026-02-18 21:00:00,48,3.1,4810.98,Em Operação
+CH-10041,EQP-207,Utilitário Leve,Uberlândia,2026-05-29 21:00:00,24,27.7,6228.22,Em Operação
+CH-10042,EQP-154,Caminhão Heavy Duty,Ribeirão Preto,2026-03-15 00:00:00,72,22.2,10315.21,Em Operação
+CH-10043,EQP-163,Utilitário Leve,Mogi das Cruzes,2026-01-05 03:00:00,72,8.8,9074.46,Em Operação
+CH-10044,EQP-230,Utilitário Leve,Uberlândia,2026-04-10 12:00:00,48,19.1,9719.87,Em Operação
+CH-10045,EQP-150,Escavadeira Linha Amarela,Mogi das Cruzes,2026-03-11 22:00:00,72,20.3,1901.09,Em Operação
+CH-10046,EQP-234,Trator Agro,Jundiaí,2026-03-31 12:00:00,48,6.5,1115.72,Em Operação
+CH-10047,EQP-120,Trator Agro,Mogi das Cruzes,2026-01-04 12:00:00,24,31.7,10752.84,Em Operação
+CH-10048,EQP-172,Utilitário Leve,Jundiaí,2026-05-06 01:00:00,24,45.5,4837.66,Em Manutenção
+CH-10049,EQP-266,Utilitário Leve,Ribeirão Preto,2026-02-08 08:00:00,48,47.0,3668.19,Em Operação
+CH-10050,EQP-117,Escavadeira Linha Amarela,Jundiaí,2026-06-12 07:00:00,24,27.7,8778.95,Em Manutenção
+CH-10051,EQP-231,Utilitário Leve,Jundiaí,2026-05-09 06:00:00,24,21.5,10086.06,Em Manutenção
+CH-10052,EQP-188,Escavadeira Linha Amarela,Cuiabá,2026-01-24 03:00:00,48,1.9,10391.13,Em Operação
+CH-10053,EQP-159,Trator Agro,Uberlândia,2026-02-26 17:00:00,48,10.2,3997.17,Em Operação
+CH-10054,EQP-113,Trator Agro,Uberlândia,2026-04-10 02:00:00,24,2.9,10270.88,Em Operação
+CH-10055,EQP-108,Caminhão Heavy Duty,Ribeirão Preto,2026-03-11 05:00:00,72,99.6,778.93,Em Manutenção
+CH-10056,EQP-189,Trator Agro,Ribeirão Preto,2026-02-10 11:00:00,72,4.4,881.04,Em Operação
+CH-10057,EQP-152,Utilitário Leve,Uberlândia,2026-06-23 11:00:00,48,4.9,7595.17,Em Operação
+CH-10058,EQP-229,Trator Agro,Cuiabá,2026-03-01 20:00:00,48,66.1,1038.34,Em Operação
+CH-10059,EQP-183,Escavadeira Linha Amarela,Uberlândia,2026-04-18 07:00:00,72,86.4,4097.93,Em Operação
+CH-10060,EQP-191,Trator Agro,Cuiabá,2026-02-26 21:00:00,24,43.6,8171.25,Em Operação
+CH-10061,EQP-210,Caminhão Heavy Duty,Ribeirão Preto,2026-01-31 21:00:00,72,0.2,4246.02,Em Operação
+CH-10062,EQP-287,Trator Agro,Mogi das Cruzes,2026-03-25 00:00:00,72,0.0,2401.32,Em Operação
+CH-10063,EQP-298,Escavadeira Linha Amarela,Ribeirão Preto,2026-06-01 03:00:00,72,14.2,3591.8,Em Manutenção
+CH-10064,EQP-271,Escavadeira Linha Amarela,Ribeirão Preto,2026-02-05 20:00:00,72,4.6,5653.63,Em Operação
+CH-10065,EQP-107,Utilitário Leve,Jundiaí,2026-06-07 10:00:00,48,0.6,5862.01,Em Operação
+CH-10066,EQP-274,Trator Agro,Jundiaí,2026-06-01 02:00:00,48,18.7,9461.1,Em Operação
+CH-10067,EQP-134,Escavadeira Linha Amarela,Jundiaí,2026-04-18 12:00:00,24,86.0,9076.79,Em Operação
+CH-10068,EQP-180,Caminhão Heavy Duty,Jundiaí,2026-04-16 16:00:00,24,11.7,5644.77,Em Operação
+CH-10069,EQP-263,Utilitário Leve,Cuiabá,2026-06-07 21:00:00,24,32.5,10194.31,Em Operação
+CH-10070,EQP-149,Caminhão Heavy Duty,Uberlândia,2026-03-27 21:00:00,24,31.7,1636.57,Em Operação
+CH-10071,EQP-203,Trator Agro,Mogi das Cruzes,2026-05-15 09:00:00,72,8.7,3287.63,Em Operação
+CH-10072,EQP-231,Trator Agro,Ribeirão Preto,2026-06-12 20:00:00,48,31.5,9987.32,Em Operação
+CH-10073,EQP-101,Trator Agro,Cuiabá,2026-01-14 11:00:00,48,7.2,4722.53,Em Operação
+CH-10074,EQP-233,Utilitário Leve,Mogi das Cruzes,2026-04-30 14:00:00,24,3.9,11779.82,Em Operação
+CH-10075,EQP-153,Escavadeira Linha Amarela,Cuiabá,2026-05-18 20:00:00,24,36.3,5755.16,Em Operação
+CH-10076,EQP-205,Utilitário Leve,Cuiabá,2026-03-21 09:00:00,72,3.6,9565.65,Em Operação
+CH-10077,EQP-103,Caminhão Heavy Duty,Ribeirão Preto,2026-05-24 13:00:00,72,173.4,5006.99,Em Operação
+CH-10078,EQP-153,Utilitário Leve,Uberlândia,2026-04-16 12:00:00,24,6.1,5271.96,Em Operação
+CH-10079,EQP-290,Caminhão Heavy Duty,Jundiaí,2026-03-11 04:00:00,48,27.1,4779.73,Em Operação
+CH-10080,EQP-245,Utilitário Leve,Uberlândia,2026-02-13 05:00:00,48,15.9,8713.18,Em Manutenção
+CH-10081,EQP-143,Escavadeira Linha Amarela,Ribeirão Preto,2026-03-14 01:00:00,48,4.1,6705.96,Em Manutenção
+CH-10082,EQP-261,Caminhão Heavy Duty,Ribeirão Preto,2026-02-14 21:00:00,24,0.8,11342.2,Em Operação
+CH-10083,EQP-289,Trator Agro,Ribeirão Preto,2026-04-17 16:00:00,48,29.2,3235.42,Em Operação
+CH-10084,EQP-113,Trator Agro,Mogi das Cruzes,2026-03-25 03:00:00,72,49.3,1476.58,Em Operação
+CH-10085,EQP-194,Utilitário Leve,Uberlândia,2026-03-23 13:00:00,72,55.4,4901.16,Em Operação
+CH-10086,EQP-147,Trator Agro,Uberlândia,2026-04-17 09:00:00,24,19.8,7515.54,Em Operação
+CH-10087,EQP-114,Caminhão Heavy Duty,Cuiabá,2026-01-21 02:00:00,72,45.1,10371.35,Em Operação
+CH-10088,EQP-299,Trator Agro,Cuiabá,2026-06-27 02:00:00,24,33.5,4350.5,Em Operação
+CH-10089,EQP-289,Escavadeira Linha Amarela,Cuiabá,2026-06-10 14:00:00,48,38.6,7949.3,Em Operação
+CH-10090,EQP-139,Escavadeira Linha Amarela,Ribeirão Preto,2026-01-07 05:00:00,48,20.4,4397.32,Em Operação
+CH-10091,EQP-181,Utilitário Leve,Uberlândia,2026-03-11 16:00:00,48,30.1,7521.47,Em Operação
+CH-10092,EQP-210,Caminhão Heavy Duty,Ribeirão Preto,2026-05-07 11:00:00,72,49.1,10652.25,Em Operação
+CH-10093,EQP-152,Escavadeira Linha Amarela,Mogi das Cruzes,2026-05-23 21:00:00,24,15.2,3006.88,Em Operação
+CH-10094,EQP-123,Escavadeira Linha Amarela,Cuiabá,2026-06-09 19:00:00,48,49.2,5029.63,Em Operação
+CH-10095,EQP-253,Caminhão Heavy Duty,Ribeirão Preto,2026-05-28 10:00:00,24,26.9,11921.2,Em Operação
+CH-10096,EQP-287,Trator Agro,Ribeirão Preto,2026-05-23 03:00:00,48,5.4,10462.12,Em Operação
+CH-10097,EQP-223,Trator Agro,Mogi das Cruzes,2026-06-25 05:00:00,72,0.7,6906.29,Em Operação
+CH-10098,EQP-140,Utilitário Leve,Jundiaí,2026-05-29 00:00:00,72,13.5,6344.54,Em Operação
+CH-10099,EQP-256,Trator Agro,Uberlândia,2026-06-19 19:00:00,24,23.7,3629.82,Em Operação
+CH-10100,EQP-114,Caminhão Heavy Duty,Jundiaí,2026-06-03 22:00:00,72,54.9,6351.35,Em Operação
+CH-10101,EQP-144,Escavadeira Linha Amarela,Cuiabá,2026-04-30 15:00:00,72,4.1,10223.72,Em Manutenção
+CH-10102,EQP-164,Trator Agro,Ribeirão Preto,2026-05-08 14:00:00,24,48.3,8316.54,Em Operação
+CH-10103,EQP-188,Utilitário Leve,Mogi das Cruzes,2026-05-22 16:00:00,48,59.6,3693.52,Em Operação
+CH-10104,EQP-170,Trator Agro,Mogi das Cruzes,2026-02-26 07:00:00,72,4.9,2657.13,Em Operação
+CH-10105,EQP-108,Caminhão Heavy Duty,Uberlândia,2026-06-14 11:00:00,24,57.2,3402.94,Em Operação
+CH-10106,EQP-187,Utilitário Leve,Jundiaí,2026-02-27 21:00:00,72,142.9,2286.18,Em Operação
+CH-10107,EQP-228,Trator Agro,Uberlândia,2026-01-21 20:00:00,72,38.9,1419.0,Em Operação
+CH-10108,EQP-235,Utilitário Leve,Ribeirão Preto,2026-03-23 09:00:00,72,46.1,5203.89,Em Operação
+CH-10109,EQP-162,Caminhão Heavy Duty,Uberlândia,2026-03-10 14:00:00,72,155.6,1625.61,Em Operação
+CH-10110,EQP-238,Escavadeira Linha Amarela,Mogi das Cruzes,2026-05-11 08:00:00,24,27.9,2311.38,Em Operação
+CH-10111,EQP-180,Caminhão Heavy Duty,Mogi das Cruzes,2026-03-28 01:00:00,24,11.0,6703.7,Em Manutenção
+CH-10112,EQP-235,Caminhão Heavy Duty,Cuiabá,2026-06-14 04:00:00,24,54.5,2225.81,Em Operação
+CH-10113,EQP-262,Caminhão Heavy Duty,Cuiabá,2026-02-18 05:00:00,72,28.6,1047.39,Em Operação
+CH-10114,EQP-262,Caminhão Heavy Duty,Ribeirão Preto,2026-05-27 06:00:00,72,26.1,4013.45,Em Operação
+CH-10115,EQP-132,Escavadeira Linha Amarela,Jundiaí,2026-04-25 20:00:00,72,8.8,2877.73,Em Operação
+CH-10116,EQP-222,Escavadeira Linha Amarela,Uberlândia,2026-03-30 00:00:00,24,42.4,6329.07,Em Operação
+CH-10117,EQP-104,Utilitário Leve,Ribeirão Preto,2026-03-26 22:00:00,72,2.6,1497.69,Em Operação
+CH-10118,EQP-140,Trator Agro,Cuiabá,2026-05-08 06:00:00,48,77.4,9095.72,Em Manutenção
+CH-10119,EQP-127,Escavadeira Linha Amarela,Uberlândia,2026-05-20 19:00:00,72,11.8,10902.93,Em Operação
+CH-10120,EQP-234,Escavadeira Linha Amarela,Cuiabá,2026-06-18 11:00:00,48,4.1,8998.19,Em Operação
+CH-10121,EQP-171,Trator Agro,Uberlândia,2026-06-10 15:00:00,72,17.5,6534.08,Em Operação
+CH-10122,EQP-111,Escavadeira Linha Amarela,Jundiaí,2026-06-27 15:00:00,24,1.3,10369.81,Em Operação
+CH-10123,EQP-261,Caminhão Heavy Duty,Ribeirão Preto,2026-04-27 10:00:00,72,34.6,8430.55,Em Operação
+CH-10124,EQP-132,Caminhão Heavy Duty,Uberlândia,2026-05-07 20:00:00,48,69.9,423.45,Em Operação
+CH-10125,EQP-147,Trator Agro,Mogi das Cruzes,2026-03-12 03:00:00,48,54.5,4910.85,Em Operação
+CH-10126,EQP-250,Utilitário Leve,Mogi das Cruzes,2026-03-27 12:00:00,72,4.1,10256.14,Em Operação
+CH-10127,EQP-161,Utilitário Leve,Uberlândia,2026-02-02 06:00:00,48,4.0,4346.55,Em Operação
+CH-10128,EQP-136,Trator Agro,Uberlândia,2026-03-22 03:00:00,48,50.4,712.02,Em Manutenção
+CH-10129,EQP-198,Trator Agro,Uberlândia,2026-06-01 14:00:00,24,77.4,9030.3,Em Operação
+CH-10130,EQP-271,Caminhão Heavy Duty,Mogi das Cruzes,2026-03-02 18:00:00,72,18.5,9683.85,Em Operação
+CH-10131,EQP-203,Utilitário Leve,Mogi das Cruzes,2026-03-02 08:00:00,72,20.7,2178.95,Em Operação
+CH-10132,EQP-134,Escavadeira Linha Amarela,Uberlândia,2026-04-08 10:00:00,72,11.5,6586.88,Em Operação
+CH-10133,EQP-292,Caminhão Heavy Duty,Cuiabá,2026-01-28 07:00:00,48,67.4,2545.88,Em Operação
+CH-10134,EQP-200,Trator Agro,Cuiabá,2026-02-12 00:00:00,72,31.1,8715.04,Em Operação
+CH-10135,EQP-274,Utilitário Leve,Jundiaí,2026-06-18 22:00:00,72,10.2,3477.14,Em Manutenção
+CH-10136,EQP-230,Escavadeira Linha Amarela,Ribeirão Preto,2026-06-16 07:00:00,24,10.6,3999.72,Em Operação
+CH-10137,EQP-100,Escavadeira Linha Amarela,Cuiabá,2026-03-27 12:00:00,24,66.5,10186.16,Em Operação
+CH-10138,EQP-104,Caminhão Heavy Duty,Mogi das Cruzes,2026-06-26 21:00:00,24,0.4,5872.97,Em Operação
+CH-10139,EQP-241,Utilitário Leve,Cuiabá,2026-01-17 03:00:00,48,11.7,8136.13,Em Operação
+CH-10140,EQP-202,Utilitário Leve,Jundiaí,2026-04-08 07:00:00,72,24.2,5007.76,Em Operação
+CH-10141,EQP-126,Trator Agro,Jundiaí,2026-04-08 02:00:00,24,4.8,3786.68,Em Operação
+CH-10142,EQP-236,Utilitário Leve,Ribeirão Preto,2026-03-06 08:00:00,24,2.9,7618.09,Em Operação
+CH-10143,EQP-114,Utilitário Leve,Cuiabá,2026-03-15 01:00:00,24,50.7,2111.83,Em Operação
+CH-10144,EQP-189,Caminhão Heavy Duty,Mogi das Cruzes,2026-03-26 01:00:00,72,67.4,4664.1,Em Manutenção
+CH-10145,EQP-141,Utilitário Leve,Mogi das Cruzes,2026-01-05 12:00:00,72,52.1,2745.73,Em Operação
+CH-10146,EQP-223,Escavadeira Linha Amarela,Uberlândia,2026-01-02 14:00:00,72,68.7,8440.8,Em Operação
+CH-10147,EQP-278,Caminhão Heavy Duty,Mogi das Cruzes,2026-01-22 22:00:00,48,24.2,11347.24,Em Manutenção
+CH-10148,EQP-162,Caminhão Heavy Duty,Ribeirão Preto,2026-04-22 11:00:00,48,50.2,11947.48,Em Operação
+CH-10149,EQP-195,Trator Agro,Ribeirão Preto,2026-02-26 03:00:00,24,14.5,5568.24,Em Operação
+CH-10150,EQP-151,Utilitário Leve,Mogi das Cruzes,2026-03-07 07:00:00,72,32.9,3254.61,Em Manutenção
+CH-10151,EQP-195,Trator Agro,Mogi das Cruzes,2026-03-15 08:00:00,24,134.9,5481.1,Em Operação
+CH-10152,EQP-231,Escavadeira Linha Amarela,Uberlândia,2026-04-08 22:00:00,72,7.7,10213.05,Em Operação
+CH-10153,EQP-250,Caminhão Heavy Duty,Mogi das Cruzes,2026-05-24 04:00:00,72,14.8,2710.27,Em Operação
+CH-10154,EQP-242,Caminhão Heavy Duty,Uberlândia,2026-04-22 19:00:00,72,19.6,11439.52,Em Operação
+CH-10155,EQP-270,Caminhão Heavy Duty,Uberlândia,2026-06-28 17:00:00,48,4.5,4299.83,Em Operação
+CH-10156,EQP-128,Escavadeira Linha Amarela,Mogi das Cruzes,2026-05-05 10:00:00,48,2.5,11833.9,Em Operação
+CH-10157,EQP-135,Escavadeira Linha Amarela,Jundiaí,2026-06-16 14:00:00,72,53.1,10111.72,Em Operação
+CH-10158,EQP-112,Trator Agro,Jundiaí,2026-03-27 21:00:00,24,112.9,9760.28,Em Operação
+CH-10159,EQP-259,Trator Agro,Uberlândia,2026-03-17 08:00:00,72,15.6,4019.48,Em Operação
+CH-10160,EQP-170,Trator Agro,Mogi das Cruzes,2026-03-29 16:00:00,72,2.8,402.69,Em Operação
+CH-10161,EQP-286,Utilitário Leve,Jundiaí,2026-06-17 11:00:00,24,2.0,4770.96,Em Manutenção
+CH-10162,EQP-185,Caminhão Heavy Duty,Mogi das Cruzes,2026-02-07 06:00:00,72,66.6,3831.17,Em Operação
+CH-10163,EQP-127,Caminhão Heavy Duty,Mogi das Cruzes,2026-02-28 09:00:00,24,18.7,737.54,Em Manutenção
+CH-10164,EQP-165,Trator Agro,Mogi das Cruzes,2026-05-18 09:00:00,48,11.6,6212.77,Em Operação
+CH-10165,EQP-269,Caminhão Heavy Duty,Cuiabá,2026-04-09 12:00:00,48,19.4,5015.47,Em Operação
+CH-10166,EQP-144,Trator Agro,Mogi das Cruzes,2026-03-04 18:00:00,24,11.5,7724.31,Em Operação
+CH-10167,EQP-161,Utilitário Leve,Cuiabá,2026-02-18 10:00:00,48,20.1,7567.88,Em Operação
+CH-10168,EQP-284,Utilitário Leve,Uberlândia,2026-02-01 12:00:00,48,58.9,1712.74,Em Operação
+CH-10169,EQP-233,Escavadeira Linha Amarela,Jundiaí,2026-05-15 20:00:00,24,26.9,11730.5,Em Operação
+CH-10170,EQP-127,Utilitário Leve,Jundiaí,2026-01-21 07:00:00,48,35.6,2487.1,Em Operação
+CH-10171,EQP-127,Trator Agro,Jundiaí,2026-01-20 07:00:00,72,13.6,5509.71,Em Operação
+CH-10172,EQP-207,Utilitário Leve,Jundiaí,2026-06-03 03:00:00,72,40.2,6010.98,Em Operação
+CH-10173,EQP-143,Escavadeira Linha Amarela,Jundiaí,2026-05-07 14:00:00,24,33.0,9812.83,Em Operação
+CH-10174,EQP-183,Caminhão Heavy Duty,Jundiaí,2026-03-09 10:00:00,48,3.8,1460.99,Em Operação
+CH-10175,EQP-129,Trator Agro,Jundiaí,2026-04-20 10:00:00,72,25.5,5315.14,Em Operação
+CH-10176,EQP-289,Caminhão Heavy Duty,Uberlândia,2026-04-26 00:00:00,72,8.9,7653.48,Em Operação
+CH-10177,EQP-174,Escavadeira Linha Amarela,Mogi das Cruzes,2026-05-23 16:00:00,48,48.9,2817.32,Em Operação
+CH-10178,EQP-227,Escavadeira Linha Amarela,Ribeirão Preto,2026-04-30 14:00:00,48,16.7,7641.37,Em Operação
+CH-10179,EQP-191,Escavadeira Linha Amarela,Cuiabá,2026-03-20 19:00:00,72,157.1,11106.88,Em Manutenção
+CH-10180,EQP-289,Caminhão Heavy Duty,Ribeirão Preto,2026-04-26 05:00:00,72,2.9,11970.96,Em Operação
+CH-10181,EQP-228,Caminhão Heavy Duty,Ribeirão Preto,2026-04-02 21:00:00,24,45.5,679.68,Em Operação
+CH-10182,EQP-220,Caminhão Heavy Duty,Mogi das Cruzes,2026-01-14 14:00:00,24,33.6,3056.38,Em Operação
+CH-10183,EQP-126,Caminhão Heavy Duty,Mogi das Cruzes,2026-06-04 08:00:00,72,43.8,3930.59,Em Manutenção
+CH-10184,EQP-289,Escavadeira Linha Amarela,Mogi das Cruzes,2026-05-05 13:00:00,24,11.0,4969.78,Em Operação
+CH-10185,EQP-220,Escavadeira Linha Amarela,Jundiaí,2026-06-17 17:00:00,72,20.3,3134.41,Em Manutenção
+CH-10186,EQP-215,Trator Agro,Uberlândia,2026-02-27 16:00:00,72,47.8,2680.81,Em Operação
+CH-10187,EQP-102,Trator Agro,Jundiaí,2026-01-28 17:00:00,24,7.9,11468.28,Em Operação
+CH-10188,EQP-202,Caminhão Heavy Duty,Uberlândia,2026-01-26 04:00:00,24,7.7,11046.7,Em Manutenção
+CH-10189,EQP-297,Utilitário Leve,Uberlândia,2026-04-23 19:00:00,48,24.0,849.81,Em Operação
+CH-10190,EQP-299,Utilitário Leve,Ribeirão Preto,2026-03-07 19:00:00,48,22.2,4264.11,Em Operação
+CH-10191,EQP-254,Escavadeira Linha Amarela,Ribeirão Preto,2026-06-02 08:00:00,48,9.9,5040.24,Em Operação
+CH-10192,EQP-236,Escavadeira Linha Amarela,Uberlândia,2026-05-11 10:00:00,72,10.6,3096.47,Em Manutenção
+CH-10193,EQP-161,Escavadeira Linha Amarela,Uberlândia,2026-02-13 21:00:00,24,9.8,7657.81,Em Operação
+CH-10194,EQP-264,Trator Agro,Jundiaí,2026-04-07 00:00:00,72,44.3,7792.45,Em Operação
+CH-10195,EQP-150,Trator Agro,Jundiaí,2026-02-11 17:00:00,24,31.7,10250.9,Em Operação
+CH-10196,EQP-271,Escavadeira Linha Amarela,Ribeirão Preto,2026-01-06 05:00:00,72,53.6,8968.17,Em Operação
+CH-10197,EQP-251,Escavadeira Linha Amarela,Mogi das Cruzes,2026-06-16 01:00:00,48,111.2,6648.11,Em Manutenção
+CH-10198,EQP-158,Escavadeira Linha Amarela,Uberlândia,2026-06-29 14:00:00,48,19.3,7946.97,Em Operação
+CH-10199,EQP-217,Utilitário Leve,Jundiaí,2026-01-23 20:00:00,48,2.1,3505.67,Em Operação
+CH-10200,EQP-259,Trator Agro,Ribeirão Preto,2026-03-30 13:00:00,72,1.5,7238.76,Em Manutenção
+CH-10201,EQP-195,Utilitário Leve,Jundiaí,2026-05-03 04:00:00,24,10.5,6023.96,Em Operação
+CH-10202,EQP-279,Utilitário Leve,Uberlândia,2026-06-27 05:00:00,24,80.9,1860.13,Em Operação
+CH-10203,EQP-212,Escavadeira Linha Amarela,Uberlândia,2026-06-20 05:00:00,48,22.2,3137.77,Em Operação
+CH-10204,EQP-161,Escavadeira Linha Amarela,Cuiabá,2026-05-27 21:00:00,48,9.5,3712.81,Em Operação
+CH-10205,EQP-285,Caminhão Heavy Duty,Mogi das Cruzes,2026-02-20 17:00:00,48,15.3,11114.42,Em Operação
+CH-10206,EQP-151,Caminhão Heavy Duty,Cuiabá,2026-01-11 13:00:00,48,27.4,2995.52,Em Operação
+CH-10207,EQP-111,Utilitário Leve,Ribeirão Preto,2026-01-12 09:00:00,24,31.7,3684.15,Em Operação
+CH-10208,EQP-138,Trator Agro,Jundiaí,2026-03-15 13:00:00,72,5.0,4621.44,Em Operação
+CH-10209,EQP-229,Escavadeira Linha Amarela,Ribeirão Preto,2026-01-08 12:00:00,72,113.2,8065.79,Em Operação
+CH-10210,EQP-230,Escavadeira Linha Amarela,Uberlândia,2026-06-01 02:00:00,72,23.6,1683.39,Em Operação
+CH-10211,EQP-212,Utilitário Leve,Cuiabá,2026-02-10 05:00:00,72,4.4,11461.16,Em Operação
+CH-10212,EQP-200,Caminhão Heavy Duty,Cuiabá,2026-06-13 07:00:00,48,67.2,10427.18,Em Operação
+CH-10213,EQP-212,Trator Agro,Cuiabá,2026-03-26 11:00:00,48,2.3,7053.43,Em Manutenção
+CH-10214,EQP-283,Caminhão Heavy Duty,Ribeirão Preto,2026-03-13 12:00:00,48,71.5,8186.24,Em Operação
+CH-10215,EQP-180,Caminhão Heavy Duty,Uberlândia,2026-02-24 10:00:00,72,170.2,494.93,Em Operação
+CH-10216,EQP-286,Caminhão Heavy Duty,Jundiaí,2026-05-17 11:00:00,48,36.2,4265.65,Em Operação
+CH-10217,EQP-212,Caminhão Heavy Duty,Jundiaí,2026-02-16 00:00:00,48,44.1,9609.22,Em Operação
+CH-10218,EQP-101,Escavadeira Linha Amarela,Ribeirão Preto,2026-05-23 16:00:00,24,12.3,1206.55,Em Operação
+CH-10219,EQP-229,Escavadeira Linha Amarela,Cuiabá,2026-06-25 15:00:00,24,85.2,3603.07,Em Operação
+CH-10220,EQP-153,Caminhão Heavy Duty,Mogi das Cruzes,2026-04-14 10:00:00,48,22.6,7147.97,Em Operação
+CH-10221,EQP-186,Trator Agro,Ribeirão Preto,2026-02-11 12:00:00,24,39.5,3300.03,Em Manutenção
+CH-10222,EQP-228,Utilitário Leve,Ribeirão Preto,2026-03-01 17:00:00,24,77.4,11227.54,Em Operação
+CH-10223,EQP-246,Trator Agro,Uberlândia,2026-01-12 10:00:00,48,110.9,1833.39,Em Operação
+CH-10224,EQP-225,Trator Agro,Jundiaí,2026-05-10 11:00:00,48,53.7,9629.51,Em Operação
+CH-10225,EQP-229,Trator Agro,Ribeirão Preto,2026-01-07 05:00:00,48,10.8,6243.0,Em Operação
+CH-10226,EQP-152,Caminhão Heavy Duty,Ribeirão Preto,2026-03-21 08:00:00,48,101.9,9078.87,Em Operação
+CH-10227,EQP-271,Escavadeira Linha Amarela,Cuiabá,2026-05-11 15:00:00,72,29.7,3935.37,Em Operação
+CH-10228,EQP-259,Trator Agro,Cuiabá,2026-04-19 03:00:00,72,80.1,6319.53,Em Operação
+CH-10229,EQP-297,Caminhão Heavy Duty,Mogi das Cruzes,2026-01-03 02:00:00,48,33.8,10324.97,Em Operação
+CH-10230,EQP-259,Trator Agro,Uberlândia,2026-01-27 15:00:00,24,11.0,5762.47,Em Operação
+CH-10231,EQP-167,Trator Agro,Mogi das Cruzes,2026-04-24 11:00:00,48,13.9,4508.72,Em Operação
+CH-10232,EQP-282,Caminhão Heavy Duty,Cuiabá,2026-04-17 10:00:00,48,24.0,6573.02,Em Operação
+CH-10233,EQP-283,Escavadeira Linha Amarela,Jundiaí,2026-02-09 04:00:00,24,46.8,8693.14,Em Operação
+CH-10234,EQP-222,Escavadeira Linha Amarela,Cuiabá,2026-06-10 17:00:00,72,11.5,5489.69,Em Operação
+CH-10235,EQP-244,Utilitário Leve,Uberlândia,2026-05-09 18:00:00,48,26.0,11284.86,Em Operação
+CH-10236,EQP-137,Caminhão Heavy Duty,Cuiabá,2026-01-08 22:00:00,48,12.7,3750.87,Em Operação
+CH-10237,EQP-123,Utilitário Leve,Uberlândia,2026-04-11 22:00:00,72,50.7,5862.92,Em Manutenção
+CH-10238,EQP-168,Utilitário Leve,Uberlândia,2026-06-09 05:00:00,72,18.9,9156.05,Em Operação
+CH-10239,EQP-215,Utilitário Leve,Uberlândia,2026-05-04 21:00:00,24,2.4,8362.72,Em Operação
+CH-10240,EQP-197,Escavadeira Linha Amarela,Uberlândia,2026-06-25 17:00:00,72,5.4,10404.6,Em Operação
+CH-10241,EQP-297,Caminhão Heavy Duty,Uberlândia,2026-04-17 05:00:00,72,1.9,11962.67,Em Operação
+CH-10242,EQP-238,Utilitário Leve,Jundiaí,2026-04-11 03:00:00,72,20.8,5294.24,Em Operação
+CH-10243,EQP-243,Caminhão Heavy Duty,Mogi das Cruzes,2026-01-04 11:00:00,24,3.4,1600.47,Em Manutenção
+CH-10244,EQP-196,Caminhão Heavy Duty,Ribeirão Preto,2026-04-20 18:00:00,72,3.6,655.87,Em Operação
+CH-10245,EQP-223,Escavadeira Linha Amarela,Mogi das Cruzes,2026-01-19 01:00:00,72,84.9,8804.46,Em Manutenção
+CH-10246,EQP-286,Utilitário Leve,Uberlândia,2026-02-01 16:00:00,24,61.8,10525.96,Em Manutenção
+CH-10247,EQP-169,Utilitário Leve,Jundiaí,2026-05-17 10:00:00,72,18.0,2882.34,Em Operação
+CH-10248,EQP-192,Caminhão Heavy Duty,Cuiabá,2026-01-12 10:00:00,72,127.6,2153.84,Em Operação
+CH-10249,EQP-102,Trator Agro,Jundiaí,2026-05-19 20:00:00,24,0.0,1027.8,Em Operação
+CH-10250,EQP-247,Escavadeira Linha Amarela,Uberlândia,2026-02-15 15:00:00,48,28.6,9925.62,Em Operação
+CH-10251,EQP-286,Escavadeira Linha Amarela,Jundiaí,2026-04-29 01:00:00,24,28.7,3943.17,Em Manutenção
+CH-10252,EQP-263,Escavadeira Linha Amarela,Jundiaí,2026-01-16 01:00:00,72,18.3,4999.85,Em Operação
+CH-10253,EQP-246,Escavadeira Linha Amarela,Uberlândia,2026-05-09 22:00:00,72,15.2,6182.18,Em Manutenção
+CH-10254,EQP-189,Utilitário Leve,Jundiaí,2026-03-04 07:00:00,72,18.2,10121.6,Em Operação
+CH-10255,EQP-294,Utilitário Leve,Ribeirão Preto,2026-04-19 12:00:00,24,16.1,7914.75,Em Manutenção
+CH-10256,EQP-246,Trator Agro,Ribeirão Preto,2026-04-29 09:00:00,72,39.3,7496.26,Em Manutenção
+CH-10257,EQP-247,Escavadeira Linha Amarela,Jundiaí,2026-01-21 07:00:00,72,4.4,2355.36,Em Operação
+CH-10258,EQP-195,Escavadeira Linha Amarela,Cuiabá,2026-06-07 03:00:00,24,6.6,6304.32,Em Operação
+CH-10259,EQP-298,Caminhão Heavy Duty,Uberlândia,2026-01-13 14:00:00,48,6.0,8669.96,Em Operação
+CH-10260,EQP-151,Utilitário Leve,Ribeirão Preto,2026-06-11 00:00:00,48,9.1,11687.15,Em Operação
+CH-10261,EQP-260,Escavadeira Linha Amarela,Cuiabá,2026-01-04 10:00:00,72,22.3,2656.45,Em Manutenção
+CH-10262,EQP-267,Trator Agro,Jundiaí,2026-06-05 06:00:00,24,3.5,411.66,Em Operação
+CH-10263,EQP-227,Trator Agro,Cuiabá,2026-04-12 16:00:00,72,60.8,1181.03,Em Operação
+CH-10264,EQP-138,Utilitário Leve,Mogi das Cruzes,2026-02-28 19:00:00,24,10.6,4697.47,Em Operação
+CH-10265,EQP-181,Trator Agro,Ribeirão Preto,2026-05-08 17:00:00,24,5.3,9900.37,Em Operação
+CH-10266,EQP-203,Trator Agro,Jundiaí,2026-01-27 21:00:00,48,33.8,383.56,Em Operação
+CH-10267,EQP-228,Utilitário Leve,Uberlândia,2026-03-10 21:00:00,48,1.2,5643.75,Em Operação
+CH-10268,EQP-110,Escavadeira Linha Amarela,Jundiaí,2026-01-25 11:00:00,24,29.0,4152.0,Em Operação
+CH-10269,EQP-284,Escavadeira Linha Amarela,Uberlândia,2026-05-11 08:00:00,72,35.9,914.04,Em Operação
+CH-10270,EQP-277,Trator Agro,Jundiaí,2026-04-07 04:00:00,48,7.3,5567.76,Em Operação
+CH-10271,EQP-250,Trator Agro,Cuiabá,2026-01-25 09:00:00,72,1.3,3280.56,Em Operação
+CH-10272,EQP-258,Escavadeira Linha Amarela,Cuiabá,2026-05-28 03:00:00,48,13.6,4417.05,Em Operação
+CH-10273,EQP-141,Utilitário Leve,Cuiabá,2026-06-11 04:00:00,48,3.1,8555.7,Em Operação
+CH-10274,EQP-198,Trator Agro,Mogi das Cruzes,2026-06-03 09:00:00,72,3.7,6402.15,Em Operação
+CH-10275,EQP-106,Caminhão Heavy Duty,Uberlândia,2026-05-06 10:00:00,48,8.8,1758.37,Em Operação
+CH-10276,EQP-243,Utilitário Leve,Cuiabá,2026-05-13 20:00:00,48,10.5,11548.55,Em Operação
+CH-10277,EQP-189,Trator Agro,Mogi das Cruzes,2026-01-09 09:00:00,72,22.6,7740.16,Em Operação
+CH-10278,EQP-211,Trator Agro,Uberlândia,2026-04-26 07:00:00,48,34.0,9260.66,Em Manutenção
+CH-10279,EQP-159,Caminhão Heavy Duty,Jundiaí,2026-06-27 01:00:00,48,27.0,1226.79,Em Operação
+CH-10280,EQP-212,Caminhão Heavy Duty,Mogi das Cruzes,2026-05-14 22:00:00,48,4.8,850.58,Em Manutenção
+CH-10281,EQP-101,Escavadeira Linha Amarela,Ribeirão Preto,2026-03-01 07:00:00,72,5.7,527.54,Em Operação
+CH-10282,EQP-228,Utilitário Leve,Mogi das Cruzes,2026-06-21 15:00:00,24,63.3,2508.89,Em Operação
+CH-10283,EQP-147,Utilitário Leve,Mogi das Cruzes,2026-05-01 21:00:00,72,24.5,5148.58,Em Operação
+CH-10284,EQP-239,Escavadeira Linha Amarela,Uberlândia,2026-05-19 04:00:00,24,61.2,11249.17,Em Operação
+CH-10285,EQP-296,Utilitário Leve,Jundiaí,2026-06-24 02:00:00,48,13.9,5647.6,Em Operação
+CH-10286,EQP-136,Utilitário Leve,Ribeirão Preto,2026-04-18 11:00:00,24,28.6,3695.98,Em Operação
+CH-10287,EQP-259,Utilitário Leve,Cuiabá,2026-04-18 12:00:00,72,22.2,6874.64,Em Operação
+CH-10288,EQP-108,Utilitário Leve,Cuiabá,2026-05-11 12:00:00,72,11.5,1609.63,Em Operação
+CH-10289,EQP-198,Utilitário Leve,Mogi das Cruzes,2026-03-17 09:00:00,48,19.0,7431.22,Em Operação
+CH-10290,EQP-246,Caminhão Heavy Duty,Uberlândia,2026-01-30 03:00:00,24,20.9,6950.65,Em Operação
+CH-10291,EQP-147,Utilitário Leve,Uberlândia,2026-01-21 08:00:00,48,6.7,9566.32,Em Operação
+CH-10292,EQP-230,Caminhão Heavy Duty,Cuiabá,2026-06-05 21:00:00,48,11.4,11844.25,Em Operação
+CH-10293,EQP-247,Utilitário Leve,Ribeirão Preto,2026-06-10 22:00:00,72,47.0,3235.22,Em Operação
+CH-10294,EQP-251,Escavadeira Linha Amarela,Jundiaí,2026-06-12 01:00:00,24,74.2,6262.98,Em Operação
+CH-10295,EQP-153,Trator Agro,Ribeirão Preto,2026-06-29 18:00:00,24,13.4,10933.73,Em Operação
+CH-10296,EQP-219,Caminhão Heavy Duty,Jundiaí,2026-02-03 00:00:00,24,11.0,9486.72,Em Operação
+CH-10297,EQP-260,Utilitário Leve,Cuiabá,2026-02-10 06:00:00,24,6.5,6002.65,Em Manutenção
+CH-10298,EQP-251,Escavadeira Linha Amarela,Jundiaí,2026-02-20 16:00:00,48,34.0,11360.85,Em Operação
+CH-10299,EQP-215,Trator Agro,Uberlândia,2026-06-24 02:00:00,48,11.7,969.67,Em Operação
+CH-10300,EQP-174,Caminhão Heavy Duty,Mogi das Cruzes,2026-03-23 19:00:00,72,132.1,11192.68,Em Operação
+CH-10301,EQP-212,Trator Agro,Mogi das Cruzes,2026-02-27 19:00:00,48,11.8,890.94,Em Operação
+CH-10302,EQP-299,Escavadeira Linha Amarela,Cuiabá,2026-03-16 20:00:00,48,15.0,6703.47,Em Operação
+CH-10303,EQP-263,Caminhão Heavy Duty,Uberlândia,2026-01-23 02:00:00,72,27.7,10718.16,Em Operação
+CH-10304,EQP-265,Trator Agro,Ribeirão Preto,2026-06-25 02:00:00,72,48.5,3373.84,Em Operação
+CH-10305,EQP-203,Utilitário Leve,Uberlândia,2026-05-08 16:00:00,72,19.0,5825.31,Em Operação
+CH-10306,EQP-183,Caminhão Heavy Duty,Mogi das Cruzes,2026-05-30 06:00:00,48,16.5,4094.65,Em Operação
+CH-10307,EQP-211,Trator Agro,Mogi das Cruzes,2026-01-17 13:00:00,48,163.0,11440.08,Em Operação
+CH-10308,EQP-198,Escavadeira Linha Amarela,Uberlândia,2026-03-10 16:00:00,72,0.3,9936.65,Em Operação
+CH-10309,EQP-252,Escavadeira Linha Amarela,Uberlândia,2026-04-18 17:00:00,72,67.6,8595.32,Em Operação
+CH-10310,EQP-192,Caminhão Heavy Duty,Mogi das Cruzes,2026-05-19 12:00:00,72,4.8,7175.24,Em Operação
+CH-10311,EQP-245,Trator Agro,Ribeirão Preto,2026-04-04 19:00:00,48,46.2,9900.92,Em Operação
+CH-10312,EQP-227,Caminhão Heavy Duty,Cuiabá,2026-01-15 19:00:00,48,28.9,4889.52,Em Operação
+CH-10313,EQP-209,Caminhão Heavy Duty,Cuiabá,2026-04-01 20:00:00,24,12.5,5536.36,Em Operação
+CH-10314,EQP-181,Trator Agro,Uberlândia,2026-06-12 17:00:00,48,62.1,8841.02,Em Operação
+CH-10315,EQP-293,Trator Agro,Cuiabá,2026-02-02 03:00:00,48,0.4,4485.73,Em Manutenção
+CH-10316,EQP-153,Utilitário Leve,Mogi das Cruzes,2026-05-05 00:00:00,48,7.7,1047.64,Em Operação
+CH-10317,EQP-262,Trator Agro,Mogi das Cruzes,2026-01-16 17:00:00,72,25.1,1169.71,Em Manutenção
+CH-10318,EQP-288,Escavadeira Linha Amarela,Uberlândia,2026-06-11 00:00:00,48,13.0,1649.74,Em Operação
+CH-10319,EQP-268,Caminhão Heavy Duty,Uberlândia,2026-03-07 12:00:00,72,28.3,10475.27,Em Operação
+CH-10320,EQP-260,Caminhão Heavy Duty,Uberlândia,2026-06-17 19:00:00,24,0.7,5825.05,Em Operação
+CH-10321,EQP-167,Escavadeira Linha Amarela,Ribeirão Preto,2026-06-05 19:00:00,24,3.7,8640.72,Em Operação
+CH-10322,EQP-132,Trator Agro,Cuiabá,2026-02-16 22:00:00,72,4.1,4897.04,Em Operação
+CH-10323,EQP-241,Escavadeira Linha Amarela,Uberlândia,2026-06-16 09:00:00,72,6.3,3326.92,Em Operação
+CH-10324,EQP-120,Escavadeira Linha Amarela,Jundiaí,2026-05-28 10:00:00,72,18.4,4362.15,Em Operação
+CH-10325,EQP-147,Utilitário Leve,Jundiaí,2026-05-04 08:00:00,48,41.8,9591.93,Em Manutenção
+CH-10326,EQP-247,Escavadeira Linha Amarela,Mogi das Cruzes,2026-01-01 08:00:00,24,70.8,7615.03,Em Operação
+CH-10327,EQP-227,Caminhão Heavy Duty,Cuiabá,2026-03-28 04:00:00,72,54.1,11270.39,Em Operação
+CH-10328,EQP-235,Escavadeira Linha Amarela,Uberlândia,2026-05-08 00:00:00,48,6.6,8252.55,Em Operação
+CH-10329,EQP-234,Caminhão Heavy Duty,Jundiaí,2026-03-08 16:00:00,24,17.5,6971.13,Em Operação
+CH-10330,EQP-294,Caminhão Heavy Duty,Cuiabá,2026-01-04 21:00:00,48,6.7,7439.29,Em Operação
+CH-10331,EQP-244,Caminhão Heavy Duty,Mogi das Cruzes,2026-06-02 01:00:00,24,9.2,11325.75,Em Operação
+CH-10332,EQP-227,Trator Agro,Ribeirão Preto,2026-02-16 12:00:00,48,21.0,9521.95,Em Manutenção
+CH-10333,EQP-132,Utilitário Leve,Cuiabá,2026-02-07 08:00:00,24,2.1,581.28,Em Operação
+CH-10334,EQP-275,Caminhão Heavy Duty,Cuiabá,2026-05-23 03:00:00,24,7.4,6549.43,Em Operação
+CH-10335,EQP-286,Caminhão Heavy Duty,Ribeirão Preto,2026-01-21 04:00:00,48,82.2,8353.56,Em Operação
+CH-10336,EQP-214,Trator Agro,Cuiabá,2026-02-26 10:00:00,72,18.8,9059.77,Em Manutenção
+CH-10337,EQP-218,Caminhão Heavy Duty,Mogi das Cruzes,2026-04-27 18:00:00,24,17.7,2793.76,Em Operação
+CH-10338,EQP-121,Escavadeira Linha Amarela,Mogi das Cruzes,2026-02-15 20:00:00,72,0.4,10445.98,Em Operação
+CH-10339,EQP-257,Escavadeira Linha Amarela,Ribeirão Preto,2026-05-22 02:00:00,48,8.5,11483.36,Em Operação
+CH-10340,EQP-137,Utilitário Leve,Uberlândia,2026-05-25 11:00:00,72,60.4,3069.57,Em Operação
+CH-10341,EQP-208,Caminhão Heavy Duty,Jundiaí,2026-02-08 18:00:00,72,5.4,10626.6,Em Operação
+CH-10342,EQP-150,Trator Agro,Uberlândia,2026-05-17 18:00:00,72,16.1,1434.65,Em Operação
+CH-10343,EQP-281,Escavadeira Linha Amarela,Cuiabá,2026-04-09 12:00:00,72,0.4,951.77,Em Manutenção
+CH-10344,EQP-107,Trator Agro,Jundiaí,2026-03-18 06:00:00,72,19.5,1811.92,Em Manutenção
+CH-10345,EQP-126,Trator Agro,Ribeirão Preto,2026-04-25 14:00:00,24,0.6,975.57,Em Operação
+CH-10346,EQP-126,Escavadeira Linha Amarela,Ribeirão Preto,2026-05-14 22:00:00,24,51.4,10186.64,Em Operação
+CH-10347,EQP-120,Trator Agro,Jundiaí,2026-05-31 06:00:00,24,52.3,990.89,Em Operação
+CH-10348,EQP-129,Escavadeira Linha Amarela,Mogi das Cruzes,2026-04-01 07:00:00,48,46.5,3478.47,Em Manutenção
+CH-10349,EQP-196,Trator Agro,Jundiaí,2026-04-08 04:00:00,72,10.0,1513.95,Em Operação
+CH-10350,EQP-127,Escavadeira Linha Amarela,Cuiabá,2026-04-30 20:00:00,24,54.5,3756.44,Em Operação
+CH-10351,EQP-210,Caminhão Heavy Duty,Mogi das Cruzes,2026-02-15 13:00:00,48,23.5,1359.55,Em Operação
+CH-10352,EQP-291,Utilitário Leve,Ribeirão Preto,2026-02-07 03:00:00,24,14.0,8115.64,Em Operação
+CH-10353,EQP-296,Escavadeira Linha Amarela,Jundiaí,2026-05-22 22:00:00,24,29.5,1859.92,Em Operação
+CH-10354,EQP-160,Escavadeira Linha Amarela,Uberlândia,2026-04-10 09:00:00,72,0.4,10266.6,Em Operação
+CH-10355,EQP-147,Utilitário Leve,Uberlândia,2026-03-13 19:00:00,48,4.6,9861.14,Em Operação
+CH-10356,EQP-246,Escavadeira Linha Amarela,Cuiabá,2026-02-04 14:00:00,72,40.7,459.84,Em Manutenção
+CH-10357,EQP-103,Escavadeira Linha Amarela,Uberlândia,2026-05-27 17:00:00,72,8.4,10780.0,Em Operação
+CH-10358,EQP-134,Trator Agro,Jundiaí,2026-01-30 19:00:00,24,27.3,638.65,Em Operação
+CH-10359,EQP-291,Utilitário Leve,Jundiaí,2026-03-19 12:00:00,72,14.6,3103.86,Em Operação
+CH-10360,EQP-148,Caminhão Heavy Duty,Uberlândia,2026-03-25 07:00:00,48,57.9,678.95,Em Operação
+CH-10361,EQP-116,Escavadeira Linha Amarela,Jundiaí,2026-04-23 08:00:00,72,91.4,4229.37,Em Operação
+CH-10362,EQP-271,Utilitário Leve,Cuiabá,2026-01-25 15:00:00,72,64.5,6312.24,Em Operação
+CH-10363,EQP-257,Trator Agro,Mogi das Cruzes,2026-06-17 18:00:00,72,9.5,9620.74,Em Operação
+CH-10364,EQP-145,Caminhão Heavy Duty,Cuiabá,2026-03-29 15:00:00,24,6.5,4254.38,Em Manutenção
+CH-10365,EQP-216,Utilitário Leve,Cuiabá,2026-01-14 06:00:00,48,19.3,8554.23,Em Operação
+CH-10366,EQP-105,Caminhão Heavy Duty,Jundiaí,2026-06-03 13:00:00,24,0.2,2493.8,Em Operação
+CH-10367,EQP-198,Caminhão Heavy Duty,Mogi das Cruzes,2026-04-12 13:00:00,24,0.8,9082.0,Em Operação
+CH-10368,EQP-223,Caminhão Heavy Duty,Jundiaí,2026-05-30 03:00:00,24,24.2,3061.16,Em Operação
+CH-10369,EQP-136,Escavadeira Linha Amarela,Ribeirão Preto,2026-06-25 14:00:00,24,22.0,1979.47,Em Operação
+CH-10370,EQP-123,Escavadeira Linha Amarela,Jundiaí,2026-03-24 02:00:00,24,156.5,2469.28,Em Manutenção
+CH-10371,EQP-192,Trator Agro,Jundiaí,2026-04-20 04:00:00,48,6.8,2430.14,Em Operação
+CH-10372,EQP-145,Trator Agro,Jundiaí,2026-06-28 00:00:00,72,9.0,6300.5,Em Operação
+CH-10373,EQP-280,Utilitário Leve,Mogi das Cruzes,2026-05-11 02:00:00,24,3.6,10184.13,Em Manutenção
+CH-10374,EQP-194,Trator Agro,Jundiaí,2026-06-19 14:00:00,24,74.9,1231.38,Em Operação
+CH-10375,EQP-198,Caminhão Heavy Duty,Mogi das Cruzes,2026-01-19 07:00:00,48,45.1,8571.39,Em Operação
+CH-10376,EQP-287,Caminhão Heavy Duty,Uberlândia,2026-01-28 03:00:00,48,51.8,7955.85,Em Operação
+CH-10377,EQP-215,Escavadeira Linha Amarela,Ribeirão Preto,2026-06-22 01:00:00,72,69.9,10508.48,Em Operação
+CH-10378,EQP-290,Caminhão Heavy Duty,Mogi das Cruzes,2026-03-12 09:00:00,48,22.3,3156.53,Em Operação
+CH-10379,EQP-259,Utilitário Leve,Uberlândia,2026-03-04 03:00:00,72,18.0,5566.29,Em Operação
+CH-10380,EQP-260,Caminhão Heavy Duty,Mogi das Cruzes,2026-03-14 02:00:00,24,12.0,11132.18,Em Operação
+CH-10381,EQP-166,Caminhão Heavy Duty,Mogi das Cruzes,2026-05-04 01:00:00,24,26.7,8021.92,Em Operação
+CH-10382,EQP-227,Utilitário Leve,Ribeirão Preto,2026-04-29 16:00:00,72,18.2,4848.59,Em Operação
+CH-10383,EQP-117,Trator Agro,Cuiabá,2026-05-01 22:00:00,48,18.0,1837.52,Em Operação
+CH-10384,EQP-124,Trator Agro,Cuiabá,2026-01-19 20:00:00,72,82.9,3371.07,Em Operação
+CH-10385,EQP-153,Utilitário Leve,Mogi das Cruzes,2026-06-24 19:00:00,48,124.1,7100.22,Em Manutenção
+CH-10386,EQP-157,Escavadeira Linha Amarela,Jundiaí,2026-05-22 22:00:00,24,47.8,8702.56,Em Operação
+CH-10387,EQP-166,Caminhão Heavy Duty,Uberlândia,2026-04-30 12:00:00,48,42.4,1755.74,Em Operação
+CH-10388,EQP-203,Utilitário Leve,Jundiaí,2026-06-15 04:00:00,72,34.2,7315.29,Em Operação
+CH-10389,EQP-273,Caminhão Heavy Duty,Jundiaí,2026-03-02 20:00:00,72,5.4,6739.11,Em Operação
+CH-10390,EQP-123,Escavadeira Linha Amarela,Mogi das Cruzes,2026-06-13 08:00:00,24,1.8,6313.28,Em Manutenção
+CH-10391,EQP-213,Caminhão Heavy Duty,Mogi das Cruzes,2026-06-17 21:00:00,48,35.2,8374.44,Em Operação
+CH-10392,EQP-131,Utilitário Leve,Mogi das Cruzes,2026-01-30 05:00:00,48,39.1,10098.16,Em Operação
+CH-10393,EQP-274,Caminhão Heavy Duty,Mogi das Cruzes,2026-01-09 04:00:00,48,1.4,4078.98,Em Operação
+CH-10394,EQP-185,Trator Agro,Cuiabá,2026-03-05 09:00:00,24,79.0,10701.44,Em Operação
+CH-10395,EQP-250,Escavadeira Linha Amarela,Mogi das Cruzes,2026-06-10 07:00:00,48,2.9,2179.41,Em Operação
+CH-10396,EQP-293,Escavadeira Linha Amarela,Cuiabá,2026-04-30 06:00:00,72,10.1,2324.38,Em Operação
+CH-10397,EQP-226,Escavadeira Linha Amarela,Cuiabá,2026-02-21 06:00:00,48,33.5,3421.23,Em Operação
+CH-10398,EQP-254,Utilitário Leve,Mogi das Cruzes,2026-03-30 05:00:00,24,5.6,1698.51,Em Operação
+CH-10399,EQP-229,Escavadeira Linha Amarela,Ribeirão Preto,2026-05-22 20:00:00,48,1.7,2994.73,Em Operação
+CH-10400,EQP-116,Trator Agro,Uberlândia,2026-02-22 19:00:00,48,12.1,1545.02,Em Operação
+CH-10401,EQP-203,Utilitário Leve,Jundiaí,2026-03-19 02:00:00,72,43.6,9914.5,Em Operação
+CH-10402,EQP-260,Trator Agro,Cuiabá,2026-02-10 18:00:00,48,16.0,1925.94,Em Manutenção
+CH-10403,EQP-236,Caminhão Heavy Duty,Uberlândia,2026-03-09 21:00:00,72,31.8,9043.38,Em Operação
+CH-10404,EQP-142,Caminhão Heavy Duty,Ribeirão Preto,2026-01-08 14:00:00,72,26.0,860.59,Em Operação
+CH-10405,EQP-275,Caminhão Heavy Duty,Jundiaí,2026-01-02 03:00:00,24,0.7,11397.69,Em Operação
+CH-10406,EQP-138,Caminhão Heavy Duty,Jundiaí,2026-04-15 11:00:00,72,134.1,8620.57,Em Operação
+CH-10407,EQP-269,Trator Agro,Cuiabá,2026-05-05 05:00:00,72,1.3,379.52,Em Manutenção
+CH-10408,EQP-125,Utilitário Leve,Mogi das Cruzes,2026-04-20 18:00:00,24,103.1,9237.12,Em Operação
+CH-10409,EQP-198,Utilitário Leve,Ribeirão Preto,2026-03-27 03:00:00,72,23.9,6314.76,Em Operação
+CH-10410,EQP-149,Escavadeira Linha Amarela,Cuiabá,2026-06-18 14:00:00,24,99.0,9418.57,Em Operação
+CH-10411,EQP-252,Trator Agro,Ribeirão Preto,2026-04-30 08:00:00,48,3.7,6413.21,Em Operação
+CH-10412,EQP-251,Caminhão Heavy Duty,Mogi das Cruzes,2026-05-07 04:00:00,24,20.2,7799.99,Em Operação
+CH-10413,EQP-112,Trator Agro,Mogi das Cruzes,2026-01-16 12:00:00,72,5.6,9500.08,Em Operação
+CH-10414,EQP-159,Escavadeira Linha Amarela,Cuiabá,2026-03-03 22:00:00,24,1.6,5039.76,Em Operação
+CH-10415,EQP-234,Escavadeira Linha Amarela,Mogi das Cruzes,2026-04-23 17:00:00,72,28.8,331.69,Em Operação
+CH-10416,EQP-156,Trator Agro,Uberlândia,2026-06-25 04:00:00,48,7.0,10244.37,Em Operação
+CH-10417,EQP-135,Trator Agro,Jundiaí,2026-06-07 15:00:00,24,26.6,4756.42,Em Operação
+CH-10418,EQP-272,Trator Agro,Cuiabá,2026-01-12 18:00:00,48,3.6,6103.7,Em Operação
+CH-10419,EQP-119,Utilitário Leve,Ribeirão Preto,2026-02-04 13:00:00,72,12.1,390.87,Em Operação
+CH-10420,EQP-164,Caminhão Heavy Duty,Uberlândia,2026-01-11 15:00:00,72,45.6,6057.48,Em Operação
+CH-10421,EQP-107,Trator Agro,Cuiabá,2026-03-05 14:00:00,48,17.2,11841.9,Em Operação
+CH-10422,EQP-243,Trator Agro,Mogi das Cruzes,2026-02-19 21:00:00,24,29.6,3555.73,Em Operação
+CH-10423,EQP-241,Trator Agro,Mogi das Cruzes,2026-05-29 03:00:00,24,31.3,4926.39,Em Operação
+CH-10424,EQP-214,Escavadeira Linha Amarela,Mogi das Cruzes,2026-03-10 06:00:00,72,55.7,8340.12,Em Manutenção
+CH-10425,EQP-242,Escavadeira Linha Amarela,Mogi das Cruzes,2026-02-17 15:00:00,48,11.8,9833.09,Em Manutenção
+CH-10426,EQP-191,Utilitário Leve,Ribeirão Preto,2026-01-20 21:00:00,48,34.9,5183.48,Em Operação
+CH-10427,EQP-197,Caminhão Heavy Duty,Uberlândia,2026-04-11 20:00:00,24,97.8,3923.13,Em Operação
+CH-10428,EQP-165,Utilitário Leve,Jundiaí,2026-06-21 21:00:00,24,39.3,11272.56,Em Operação
+CH-10429,EQP-131,Caminhão Heavy Duty,Ribeirão Preto,2026-06-10 20:00:00,24,20.2,8222.6,Em Operação
+CH-10430,EQP-290,Escavadeira Linha Amarela,Ribeirão Preto,2026-05-17 07:00:00,48,29.9,1692.55,Em Operação
+CH-10431,EQP-185,Escavadeira Linha Amarela,Jundiaí,2026-03-09 16:00:00,24,40.4,1106.46,Em Operação
+CH-10432,EQP-150,Escavadeira Linha Amarela,Jundiaí,2026-02-04 15:00:00,24,28.4,5957.53,Em Manutenção
+CH-10433,EQP-252,Utilitário Leve,Mogi das Cruzes,2026-03-06 22:00:00,72,0.5,2875.05,Em Operação
+CH-10434,EQP-285,Trator Agro,Ribeirão Preto,2026-01-08 09:00:00,24,6.5,3271.62,Em Operação
+CH-10435,EQP-162,Trator Agro,Cuiabá,2026-02-14 09:00:00,24,49.9,10569.0,Em Operação
+CH-10436,EQP-289,Escavadeira Linha Amarela,Jundiaí,2026-03-28 01:00:00,48,9.6,1347.92,Em Operação
+CH-10437,EQP-224,Trator Agro,Jundiaí,2026-06-24 08:00:00,48,39.5,8669.76,Em Operação
+CH-10438,EQP-249,Trator Agro,Uberlândia,2026-06-17 16:00:00,72,14.0,3472.36,Em Operação
+CH-10439,EQP-157,Utilitário Leve,Cuiabá,2026-03-17 10:00:00,24,22.1,9195.84,Em Operação
+CH-10440,EQP-157,Caminhão Heavy Duty,Cuiabá,2026-03-17 09:00:00,72,2.1,8752.21,Em Operação
+CH-10441,EQP-185,Escavadeira Linha Amarela,Jundiaí,2026-06-23 21:00:00,48,6.0,386.49,Em Operação
+CH-10442,EQP-148,Escavadeira Linha Amarela,Mogi das Cruzes,2026-02-16 16:00:00,72,94.5,6256.88,Em Operação
+CH-10443,EQP-279,Utilitário Leve,Uberlândia,2026-01-15 03:00:00,48,66.3,1930.04,Em Operação
+CH-10444,EQP-269,Utilitário Leve,Cuiabá,2026-04-15 15:00:00,72,31.7,10434.86,Em Operação
+CH-10445,EQP-169,Trator Agro,Jundiaí,2026-05-27 19:00:00,72,18.5,10497.55,Em Operação
+CH-10446,EQP-114,Escavadeira Linha Amarela,Cuiabá,2026-01-26 14:00:00,24,33.8,5194.65,Em Manutenção
+CH-10447,EQP-153,Caminhão Heavy Duty,Uberlândia,2026-02-21 20:00:00,72,28.9,5499.43,Em Operação
+CH-10448,EQP-287,Utilitário Leve,Uberlândia,2026-04-03 04:00:00,24,25.2,3848.41,Em Manutenção
+CH-10449,EQP-200,Caminhão Heavy Duty,Ribeirão Preto,2026-05-30 05:00:00,24,1.8,8684.29,Em Manutenção
+CH-10450,EQP-107,Caminhão Heavy Duty,Jundiaí,2026-01-21 16:00:00,24,30.1,4496.34,Em Operação
+CH-10451,EQP-152,Escavadeira Linha Amarela,Uberlândia,2026-02-20 00:00:00,24,43.9,3433.17,Em Operação
+CH-10452,EQP-159,Escavadeira Linha Amarela,Ribeirão Preto,2026-02-07 18:00:00,72,153.9,5357.1,Em Manutenção
+CH-10453,EQP-207,Utilitário Leve,Ribeirão Preto,2026-01-20 03:00:00,48,0.3,1370.4,Em Operação
+CH-10454,EQP-104,Escavadeira Linha Amarela,Cuiabá,2026-06-06 16:00:00,48,39.3,9035.26,Em Operação
+CH-10455,EQP-202,Escavadeira Linha Amarela,Cuiabá,2026-06-28 08:00:00,48,25.4,447.38,Em Manutenção
+CH-10456,EQP-295,Escavadeira Linha Amarela,Ribeirão Preto,2026-05-12 01:00:00,72,17.1,7840.48,Em Operação
+CH-10457,EQP-105,Caminhão Heavy Duty,Cuiabá,2026-02-24 07:00:00,24,4.1,2439.51,Em Operação
+CH-10458,EQP-208,Utilitário Leve,Uberlândia,2026-04-02 14:00:00,48,15.8,3019.13,Em Operação
+CH-10459,EQP-215,Trator Agro,Mogi das Cruzes,2026-01-28 06:00:00,72,13.1,7736.89,Em Operação
+CH-10460,EQP-193,Caminhão Heavy Duty,Uberlândia,2026-01-04 05:00:00,24,10.8,11917.44,Em Operação
+CH-10461,EQP-146,Escavadeira Linha Amarela,Ribeirão Preto,2026-05-30 00:00:00,48,39.4,9399.29,Em Operação
+CH-10462,EQP-198,Caminhão Heavy Duty,Ribeirão Preto,2026-03-17 14:00:00,24,36.2,2942.32,Em Operação
+CH-10463,EQP-154,Escavadeira Linha Amarela,Uberlândia,2026-06-22 22:00:00,48,26.7,2359.49,Em Operação
+CH-10464,EQP-267,Escavadeira Linha Amarela,Cuiabá,2026-03-08 06:00:00,48,83.7,10434.92,Em Operação
+CH-10465,EQP-151,Caminhão Heavy Duty,Cuiabá,2026-03-27 16:00:00,48,12.9,5496.95,Em Operação
+CH-10466,EQP-243,Utilitário Leve,Ribeirão Preto,2026-06-11 01:00:00,24,8.4,1903.52,Em Operação
+CH-10467,EQP-112,Escavadeira Linha Amarela,Jundiaí,2026-04-01 08:00:00,72,32.0,10387.87,Em Operação
+CH-10468,EQP-213,Utilitário Leve,Cuiabá,2026-04-15 08:00:00,24,6.6,9848.28,Em Operação
+CH-10469,EQP-223,Trator Agro,Uberlândia,2026-01-01 12:00:00,48,11.4,11811.7,Em Operação
+CH-10470,EQP-205,Escavadeira Linha Amarela,Cuiabá,2026-03-13 05:00:00,24,7.6,10944.0,Em Manutenção
+CH-10471,EQP-257,Utilitário Leve,Uberlândia,2026-03-28 05:00:00,72,2.1,10265.95,Em Operação
+CH-10472,EQP-246,Utilitário Leve,Ribeirão Preto,2026-06-15 19:00:00,24,52.7,915.12,Em Operação
+CH-10473,EQP-244,Trator Agro,Cuiabá,2026-01-06 19:00:00,72,8.8,1521.66,Em Operação
+CH-10474,EQP-219,Utilitário Leve,Uberlândia,2026-06-02 20:00:00,72,19.2,6957.1,Em Operação
+CH-10475,EQP-162,Utilitário Leve,Ribeirão Preto,2026-05-25 02:00:00,24,1.3,6518.31,Em Operação
+CH-10476,EQP-118,Trator Agro,Jundiaí,2026-03-02 16:00:00,48,36.1,5658.17,Em Operação
+CH-10477,EQP-191,Escavadeira Linha Amarela,Uberlândia,2026-01-12 16:00:00,72,12.0,4942.44,Em Operação
+CH-10478,EQP-157,Utilitário Leve,Jundiaí,2026-01-06 11:00:00,24,41.0,5345.16,Em Operação
+CH-10479,EQP-282,Utilitário Leve,Jundiaí,2026-01-27 15:00:00,72,16.0,6960.79,Em Operação
+CH-10480,EQP-189,Utilitário Leve,Mogi das Cruzes,2026-05-16 14:00:00,48,6.5,324.3,Em Operação
+CH-10481,EQP-216,Caminhão Heavy Duty,Cuiabá,2026-05-04 12:00:00,24,21.6,3350.29,Em Operação
+CH-10482,EQP-161,Trator Agro,Uberlândia,2026-04-16 22:00:00,24,4.2,6363.87,Em Manutenção
+CH-10483,EQP-122,Caminhão Heavy Duty,Jundiaí,2026-04-03 00:00:00,24,17.4,8749.93,Em Operação
+CH-10484,EQP-226,Trator Agro,Mogi das Cruzes,2026-04-19 16:00:00,48,11.5,2337.63,Em Operação
+CH-10485,EQP-236,Escavadeira Linha Amarela,Ribeirão Preto,2026-04-09 02:00:00,72,72.9,6698.51,Em Operação
+CH-10486,EQP-239,Escavadeira Linha Amarela,Uberlândia,2026-06-17 14:00:00,24,1.9,8659.18,Em Manutenção
+CH-10487,EQP-228,Utilitário Leve,Jundiaí,2026-05-22 03:00:00,72,35.5,5502.14,Em Operação
+CH-10488,EQP-157,Trator Agro,Cuiabá,2026-02-04 03:00:00,72,6.1,616.85,Em Manutenção
+CH-10489,EQP-221,Escavadeira Linha Amarela,Mogi das Cruzes,2026-06-25 17:00:00,48,11.5,5556.44,Em Operação
+CH-10490,EQP-100,Trator Agro,Jundiaí,2026-03-25 16:00:00,24,16.1,3768.41,Em Operação
+CH-10491,EQP-133,Escavadeira Linha Amarela,Cuiabá,2026-02-25 18:00:00,72,71.6,11176.9,Em Operação
+CH-10492,EQP-195,Caminhão Heavy Duty,Jundiaí,2026-06-26 10:00:00,24,8.3,1757.98,Em Operação
+CH-10493,EQP-225,Escavadeira Linha Amarela,Uberlândia,2026-05-21 19:00:00,24,2.9,7933.97,Em Operação
+CH-10494,EQP-217,Caminhão Heavy Duty,Uberlândia,2026-02-18 02:00:00,48,11.5,916.82,Em Operação
+CH-10495,EQP-147,Escavadeira Linha Amarela,Uberlândia,2026-02-15 07:00:00,24,3.3,5520.19,Em Operação
+CH-10496,EQP-188,Utilitário Leve,Mogi das Cruzes,2026-04-23 13:00:00,24,4.1,6781.56,Em Manutenção
+CH-10497,EQP-216,Caminhão Heavy Duty,Uberlândia,2026-05-16 00:00:00,72,25.6,3786.07,Em Operação
+CH-10498,EQP-228,Escavadeira Linha Amarela,Cuiabá,2026-02-12 13:00:00,48,1.9,5624.38,Em Manutenção
+CH-10499,EQP-115,Utilitário Leve,Jundiaí,2026-05-28 01:00:00,24,0.9,2213.58,Em Operação
+CH-10500,EQP-288,Caminhão Heavy Duty,Ribeirão Preto,2026-05-04 22:00:00,72,37.6,3858.25,Em Operação
+CH-10501,EQP-291,Utilitário Leve,Cuiabá,2026-04-07 03:00:00,48,13.5,7566.94,Em Manutenção
+CH-10502,EQP-290,Trator Agro,Cuiabá,2026-03-31 18:00:00,48,4.0,3831.06,Em Operação
+CH-10503,EQP-168,Trator Agro,Uberlândia,2026-02-08 05:00:00,72,8.8,10826.99,Em Operação
+CH-10504,EQP-121,Caminhão Heavy Duty,Mogi das Cruzes,2026-03-26 00:00:00,72,30.8,7652.36,Em Operação
+CH-10505,EQP-192,Escavadeira Linha Amarela,Jundiaí,2026-06-26 16:00:00,72,9.7,5432.19,Em Operação
+CH-10506,EQP-294,Caminhão Heavy Duty,Mogi das Cruzes,2026-03-03 07:00:00,72,20.5,753.46,Em Operação
+CH-10507,EQP-175,Utilitário Leve,Jundiaí,2026-04-16 18:00:00,72,3.9,6144.72,Em Operação
+CH-10508,EQP-253,Escavadeira Linha Amarela,Jundiaí,2026-04-17 20:00:00,24,26.6,9247.88,Em Operação
+CH-10509,EQP-243,Trator Agro,Mogi das Cruzes,2026-02-23 00:00:00,24,11.4,3407.02,Em Manutenção
+CH-10510,EQP-278,Escavadeira Linha Amarela,Cuiabá,2026-05-06 04:00:00,48,29.6,9739.25,Em Operação
+CH-10511,EQP-185,Trator Agro,Jundiaí,2026-01-09 15:00:00,24,49.6,3246.14,Em Manutenção
+CH-10512,EQP-284,Escavadeira Linha Amarela,Mogi das Cruzes,2026-03-29 05:00:00,24,28.4,9937.83,Em Operação
+CH-10513,EQP-128,Escavadeira Linha Amarela,Jundiaí,2026-02-06 07:00:00,24,10.5,1297.64,Em Operação
+CH-10514,EQP-168,Escavadeira Linha Amarela,Ribeirão Preto,2026-02-18 12:00:00,72,8.9,10434.35,Em Operação
+CH-10515,EQP-146,Utilitário Leve,Cuiabá,2026-02-10 15:00:00,48,11.9,6140.48,Em Operação
+CH-10516,EQP-193,Utilitário Leve,Uberlândia,2026-01-17 02:00:00,48,5.4,3769.49,Em Manutenção
+CH-10517,EQP-289,Caminhão Heavy Duty,Jundiaí,2026-03-29 18:00:00,48,6.0,3401.83,Em Operação
+CH-10518,EQP-296,Caminhão Heavy Duty,Ribeirão Preto,2026-01-21 11:00:00,48,46.9,5354.52,Em Operação
+CH-10519,EQP-243,Trator Agro,Uberlândia,2026-02-20 15:00:00,24,14.6,11988.88,Em Operação
+CH-10520,EQP-275,Utilitário Leve,Uberlândia,2026-02-28 10:00:00,24,17.2,2877.83,Em Operação
+CH-10521,EQP-184,Trator Agro,Jundiaí,2026-06-16 09:00:00,72,27.0,1507.63,Em Manutenção
+CH-10522,EQP-138,Caminhão Heavy Duty,Mogi das Cruzes,2026-02-10 19:00:00,48,26.7,7144.91,Em Manutenção
+CH-10523,EQP-199,Trator Agro,Jundiaí,2026-02-08 03:00:00,24,2.1,6015.95,Em Operação
+CH-10524,EQP-132,Caminhão Heavy Duty,Ribeirão Preto,2026-05-21 11:00:00,24,53.4,6433.1,Em Operação
+CH-10525,EQP-200,Utilitário Leve,Uberlândia,2026-01-11 22:00:00,72,5.9,8103.14,Em Operação
+CH-10526,EQP-122,Escavadeira Linha Amarela,Jundiaí,2026-05-27 01:00:00,72,38.5,3425.59,Em Operação
+CH-10527,EQP-109,Utilitário Leve,Mogi das Cruzes,2026-05-19 21:00:00,72,44.4,10954.78,Em Manutenção
+CH-10528,EQP-168,Trator Agro,Jundiaí,2026-03-18 18:00:00,24,37.6,5397.36,Em Operação
+CH-10529,EQP-199,Trator Agro,Cuiabá,2026-05-07 04:00:00,24,26.0,1810.31,Em Operação
+CH-10530,EQP-133,Utilitário Leve,Mogi das Cruzes,2026-02-15 07:00:00,72,0.4,8984.9,Em Operação
+CH-10531,EQP-279,Utilitário Leve,Ribeirão Preto,2026-02-14 06:00:00,48,13.4,7824.32,Em Manutenção
+CH-10532,EQP-237,Caminhão Heavy Duty,Uberlândia,2026-01-01 13:00:00,72,27.9,3994.2,Em Operação
+CH-10533,EQP-246,Trator Agro,Jundiaí,2026-06-17 22:00:00,72,14.7,7571.77,Em Operação
+CH-10534,EQP-285,Trator Agro,Mogi das Cruzes,2026-04-18 02:00:00,72,59.7,2872.38,Em Operação
+CH-10535,EQP-195,Utilitário Leve,Cuiabá,2026-01-19 17:00:00,72,11.1,5504.62,Em Operação
+CH-10536,EQP-100,Escavadeira Linha Amarela,Mogi das Cruzes,2026-03-17 15:00:00,24,10.4,10823.13,Em Operação
+CH-10537,EQP-168,Trator Agro,Cuiabá,2026-03-13 22:00:00,48,9.3,1862.35,Em Operação
+CH-10538,EQP-103,Escavadeira Linha Amarela,Ribeirão Preto,2026-04-19 18:00:00,72,12.1,4824.35,Em Operação
+CH-10539,EQP-115,Utilitário Leve,Uberlândia,2026-01-12 18:00:00,48,24.5,9907.37,Em Operação
+CH-10540,EQP-123,Utilitário Leve,Ribeirão Preto,2026-06-10 17:00:00,48,36.8,11643.04,Em Operação
+CH-10541,EQP-179,Caminhão Heavy Duty,Jundiaí,2026-02-14 19:00:00,48,32.6,5610.94,Em Operação
+CH-10542,EQP-101,Trator Agro,Mogi das Cruzes,2026-03-31 15:00:00,72,49.5,6231.9,Em Operação
+CH-10543,EQP-227,Escavadeira Linha Amarela,Cuiabá,2026-04-13 07:00:00,24,65.1,6994.41,Em Operação
+CH-10544,EQP-259,Caminhão Heavy Duty,Cuiabá,2026-01-08 00:00:00,72,50.8,11208.47,Em Operação
+CH-10545,EQP-183,Trator Agro,Mogi das Cruzes,2026-06-02 16:00:00,48,0.6,10341.02,Em Operação
+CH-10546,EQP-251,Caminhão Heavy Duty,Mogi das Cruzes,2026-04-01 11:00:00,48,39.9,2296.03,Em Manutenção
+CH-10547,EQP-239,Utilitário Leve,Jundiaí,2026-06-23 20:00:00,24,7.0,5410.07,Em Operação
+CH-10548,EQP-277,Trator Agro,Ribeirão Preto,2026-03-28 10:00:00,72,4.3,5728.81,Em Operação
+CH-10549,EQP-262,Caminhão Heavy Duty,Cuiabá,2026-06-07 04:00:00,48,30.5,9532.42,Em Operação
+CH-10550,EQP-223,Caminhão Heavy Duty,Jundiaí,2026-06-24 11:00:00,24,11.6,7353.85,Em Operação
+CH-10551,EQP-132,Escavadeira Linha Amarela,Ribeirão Preto,2026-06-26 16:00:00,48,1.8,7954.38,Em Operação
+CH-10552,EQP-260,Caminhão Heavy Duty,Jundiaí,2026-06-24 05:00:00,24,4.4,11978.94,Em Operação
+CH-10553,EQP-288,Trator Agro,Cuiabá,2026-03-25 00:00:00,24,0.0,1177.03,Em Operação
+CH-10554,EQP-278,Trator Agro,Mogi das Cruzes,2026-03-23 04:00:00,72,70.1,2909.21,Em Operação
+CH-10555,EQP-270,Escavadeira Linha Amarela,Mogi das Cruzes,2026-05-26 13:00:00,48,0.7,5072.38,Em Operação
+CH-10556,EQP-200,Trator Agro,Ribeirão Preto,2026-03-09 04:00:00,72,7.1,4369.05,Em Operação
+CH-10557,EQP-111,Utilitário Leve,Uberlândia,2026-06-10 21:00:00,48,16.1,553.25,Em Operação
+CH-10558,EQP-166,Trator Agro,Ribeirão Preto,2026-05-07 00:00:00,72,13.2,1373.8,Em Operação
+CH-10559,EQP-164,Trator Agro,Uberlândia,2026-06-13 17:00:00,48,72.8,8267.15,Em Operação
+CH-10560,EQP-260,Caminhão Heavy Duty,Jundiaí,2026-03-23 15:00:00,72,1.2,10588.1,Em Operação
+CH-10561,EQP-267,Caminhão Heavy Duty,Jundiaí,2026-05-27 08:00:00,24,21.5,6316.46,Em Manutenção
+CH-10562,EQP-173,Trator Agro,Cuiabá,2026-06-05 18:00:00,48,34.2,6608.54,Em Operação
+CH-10563,EQP-142,Escavadeira Linha Amarela,Uberlândia,2026-06-17 21:00:00,48,80.5,3284.59,Em Operação
+CH-10564,EQP-143,Caminhão Heavy Duty,Cuiabá,2026-03-25 04:00:00,24,29.1,9284.15,Em Operação
+CH-10565,EQP-128,Escavadeira Linha Amarela,Mogi das Cruzes,2026-04-23 01:00:00,72,48.9,9096.0,Em Manutenção
+CH-10566,EQP-240,Trator Agro,Uberlândia,2026-03-17 14:00:00,48,2.6,7183.88,Em Operação
+CH-10567,EQP-111,Trator Agro,Ribeirão Preto,2026-05-02 06:00:00,48,14.6,2788.17,Em Operação
+CH-10568,EQP-194,Utilitário Leve,Mogi das Cruzes,2026-05-23 03:00:00,72,14.0,1435.11,Em Manutenção
+CH-10569,EQP-145,Caminhão Heavy Duty,Mogi das Cruzes,2026-02-10 00:00:00,24,65.2,1051.59,Em Manutenção
+CH-10570,EQP-229,Trator Agro,Ribeirão Preto,2026-06-16 12:00:00,72,4.9,7234.54,Em Operação
+CH-10571,EQP-134,Utilitário Leve,Mogi das Cruzes,2026-01-02 19:00:00,72,4.9,9952.91,Em Operação
+CH-10572,EQP-180,Caminhão Heavy Duty,Uberlândia,2026-01-29 21:00:00,72,11.9,10342.47,Em Operação
+CH-10573,EQP-189,Trator Agro,Cuiabá,2026-04-15 06:00:00,48,1.7,5724.38,Em Operação
+CH-10574,EQP-107,Trator Agro,Mogi das Cruzes,2026-02-20 14:00:00,24,6.0,9475.97,Em Operação
+CH-10575,EQP-192,Caminhão Heavy Duty,Uberlândia,2026-03-16 22:00:00,24,100.8,11378.5,Em Operação
+CH-10576,EQP-253,Caminhão Heavy Duty,Jundiaí,2026-01-10 13:00:00,72,16.8,3519.49,Em Operação
+CH-10577,EQP-189,Caminhão Heavy Duty,Uberlândia,2026-05-22 22:00:00,48,30.0,4956.14,Em Operação
+CH-10578,EQP-261,Trator Agro,Cuiabá,2026-02-20 18:00:00,72,38.9,11198.3,Em Operação
+CH-10579,EQP-214,Trator Agro,Uberlândia,2026-04-28 21:00:00,48,13.7,4257.3,Em Operação
+CH-10580,EQP-204,Utilitário Leve,Ribeirão Preto,2026-05-01 19:00:00,48,4.8,10992.35,Em Operação
+CH-10581,EQP-234,Escavadeira Linha Amarela,Cuiabá,2026-02-08 17:00:00,48,6.9,11778.22,Em Operação
+CH-10582,EQP-295,Caminhão Heavy Duty,Jundiaí,2026-01-28 09:00:00,48,11.3,8043.19,Em Manutenção
+CH-10583,EQP-157,Trator Agro,Ribeirão Preto,2026-01-03 08:00:00,24,30.3,9857.62,Em Operação
+CH-10584,EQP-213,Trator Agro,Uberlândia,2026-03-25 07:00:00,48,15.2,9069.68,Em Operação
+CH-10585,EQP-174,Caminhão Heavy Duty,Cuiabá,2026-06-04 09:00:00,48,0.2,8484.55,Em Manutenção
+CH-10586,EQP-256,Escavadeira Linha Amarela,Jundiaí,2026-04-27 16:00:00,72,22.2,3891.09,Em Operação
+CH-10587,EQP-219,Caminhão Heavy Duty,Ribeirão Preto,2026-01-02 01:00:00,72,76.3,968.0,Em Operação
+CH-10588,EQP-263,Escavadeira Linha Amarela,Jundiaí,2026-04-03 05:00:00,24,50.2,4313.71,Em Manutenção
+CH-10589,EQP-120,Trator Agro,Uberlândia,2026-06-15 04:00:00,72,52.3,8103.15,Em Operação
+CH-10590,EQP-263,Escavadeira Linha Amarela,Jundiaí,2026-05-11 08:00:00,48,47.6,1499.59,Em Operação
+CH-10591,EQP-237,Utilitário Leve,Mogi das Cruzes,2026-05-24 04:00:00,72,11.7,439.44,Em Operação
+CH-10592,EQP-200,Trator Agro,Ribeirão Preto,2026-04-04 17:00:00,24,43.5,1934.4,Em Operação
+CH-10593,EQP-251,Utilitário Leve,Jundiaí,2026-02-09 19:00:00,72,4.6,8674.11,Em Operação
+CH-10594,EQP-291,Caminhão Heavy Duty,Uberlândia,2026-01-02 08:00:00,72,32.2,11681.69,Em Manutenção
+CH-10595,EQP-276,Caminhão Heavy Duty,Uberlândia,2026-03-22 16:00:00,24,30.8,11801.86,Em Operação
+CH-10596,EQP-198,Caminhão Heavy Duty,Jundiaí,2026-06-18 16:00:00,24,0.8,6079.56,Em Operação
+CH-10597,EQP-135,Escavadeira Linha Amarela,Uberlândia,2026-01-12 11:00:00,48,46.5,10471.42,Em Operação
+CH-10598,EQP-195,Trator Agro,Cuiabá,2026-06-12 06:00:00,72,70.1,8920.87,Em Operação
+CH-10599,EQP-251,Caminhão Heavy Duty,Cuiabá,2026-03-06 02:00:00,48,9.3,6162.17,Em Operação
+CH-10600,EQP-250,Caminhão Heavy Duty,Cuiabá,2026-02-24 09:00:00,72,50.2,7001.3,Em Operação
+CH-10601,EQP-289,Trator Agro,Mogi das Cruzes,2026-02-14 01:00:00,72,2.6,1905.56,Em Operação
+CH-10602,EQP-136,Caminhão Heavy Duty,Jundiaí,2026-04-11 02:00:00,48,27.5,11270.64,Em Operação
+CH-10603,EQP-111,Utilitário Leve,Mogi das Cruzes,2026-03-03 15:00:00,72,19.9,4417.58,Em Operação
+CH-10604,EQP-212,Trator Agro,Uberlândia,2026-02-18 01:00:00,72,23.7,5519.95,Em Operação
+CH-10605,EQP-282,Trator Agro,Mogi das Cruzes,2026-05-07 09:00:00,72,78.2,8158.42,Em Operação
+CH-10606,EQP-112,Trator Agro,Uberlândia,2026-06-02 05:00:00,24,61.5,4206.66,Em Operação
+CH-10607,EQP-122,Utilitário Leve,Uberlândia,2026-01-23 21:00:00,48,46.1,3274.83,Em Operação
+CH-10608,EQP-198,Trator Agro,Ribeirão Preto,2026-06-01 10:00:00,24,9.6,7683.28,Em Operação
+CH-10609,EQP-204,Utilitário Leve,Cuiabá,2026-02-07 22:00:00,48,72.9,592.31,Em Operação
+CH-10610,EQP-129,Trator Agro,Uberlândia,2026-01-28 06:00:00,48,3.1,8732.48,Em Operação
+CH-10611,EQP-116,Escavadeira Linha Amarela,Ribeirão Preto,2026-01-21 14:00:00,72,57.6,6314.07,Em Manutenção
+CH-10612,EQP-212,Caminhão Heavy Duty,Cuiabá,2026-04-17 05:00:00,48,11.9,7387.32,Em Operação
+CH-10613,EQP-161,Escavadeira Linha Amarela,Uberlândia,2026-05-26 19:00:00,24,1.7,7693.0,Em Operação
+CH-10614,EQP-183,Caminhão Heavy Duty,Uberlândia,2026-06-13 08:00:00,24,33.2,6466.49,Em Operação
+CH-10615,EQP-211,Utilitário Leve,Mogi das Cruzes,2026-04-09 21:00:00,24,7.9,7115.65,Em Operação
+CH-10616,EQP-185,Escavadeira Linha Amarela,Mogi das Cruzes,2026-06-22 19:00:00,48,8.4,8300.32,Em Operação
+CH-10617,EQP-240,Trator Agro,Cuiabá,2026-04-29 11:00:00,24,11.0,9111.49,Em Operação
+CH-10618,EQP-286,Caminhão Heavy Duty,Uberlândia,2026-03-14 18:00:00,48,2.0,8811.19,Em Operação
+CH-10619,EQP-118,Caminhão Heavy Duty,Jundiaí,2026-05-02 19:00:00,24,5.8,10474.51,Em Manutenção
+CH-10620,EQP-276,Escavadeira Linha Amarela,Mogi das Cruzes,2026-01-30 02:00:00,24,0.2,2516.49,Em Manutenção
+CH-10621,EQP-199,Utilitário Leve,Cuiabá,2026-04-18 14:00:00,48,17.7,4993.43,Em Operação
+CH-10622,EQP-239,Escavadeira Linha Amarela,Uberlândia,2026-04-08 01:00:00,24,2.6,11389.21,Em Operação
+CH-10623,EQP-288,Utilitário Leve,Uberlândia,2026-02-01 20:00:00,72,34.4,4940.11,Em Operação
+CH-10624,EQP-246,Utilitário Leve,Jundiaí,2026-06-05 01:00:00,48,8.1,1760.98,Em Operação
+CH-10625,EQP-175,Caminhão Heavy Duty,Cuiabá,2026-06-21 21:00:00,48,86.2,6447.71,Em Operação
+CH-10626,EQP-108,Escavadeira Linha Amarela,Uberlândia,2026-03-20 02:00:00,48,61.5,1581.04,Em Operação
+CH-10627,EQP-298,Escavadeira Linha Amarela,Mogi das Cruzes,2026-02-10 05:00:00,72,10.3,2673.38,Em Operação
+CH-10628,EQP-127,Utilitário Leve,Jundiaí,2026-03-04 14:00:00,48,45.9,11980.33,Em Operação
+CH-10629,EQP-227,Escavadeira Linha Amarela,Cuiabá,2026-01-23 09:00:00,24,48.8,6633.94,Em Operação
+CH-10630,EQP-151,Trator Agro,Jundiaí,2026-04-14 08:00:00,24,129.3,3623.48,Em Operação
+CH-10631,EQP-182,Trator Agro,Mogi das Cruzes,2026-03-16 00:00:00,24,27.3,11938.87,Em Operação
+CH-10632,EQP-210,Escavadeira Linha Amarela,Cuiabá,2026-02-17 15:00:00,48,2.6,11608.74,Em Operação
+CH-10633,EQP-243,Escavadeira Linha Amarela,Jundiaí,2026-06-09 05:00:00,24,31.2,5456.65,Em Operação
+CH-10634,EQP-216,Utilitário Leve,Ribeirão Preto,2026-02-26 08:00:00,48,29.4,3346.72,Em Operação
+CH-10635,EQP-168,Trator Agro,Mogi das Cruzes,2026-04-28 03:00:00,24,30.5,10109.28,Em Manutenção
+CH-10636,EQP-198,Trator Agro,Mogi das Cruzes,2026-04-10 01:00:00,72,11.0,8672.76,Em Operação
+CH-10637,EQP-239,Caminhão Heavy Duty,Mogi das Cruzes,2026-05-04 03:00:00,72,58.9,8337.21,Em Operação
+CH-10638,EQP-124,Utilitário Leve,Ribeirão Preto,2026-06-10 00:00:00,72,96.2,10749.43,Em Operação
+CH-10639,EQP-279,Caminhão Heavy Duty,Ribeirão Preto,2026-06-01 18:00:00,72,7.4,8366.18,Em Operação
+CH-10640,EQP-222,Trator Agro,Uberlândia,2026-06-16 09:00:00,48,2.8,3620.44,Em Operação
+CH-10641,EQP-152,Utilitário Leve,Jundiaí,2026-02-03 20:00:00,24,6.5,8418.2,Em Operação
+CH-10642,EQP-250,Escavadeira Linha Amarela,Uberlândia,2026-06-05 14:00:00,72,51.5,3878.02,Em Operação
+CH-10643,EQP-243,Utilitário Leve,Jundiaí,2026-06-14 21:00:00,48,33.9,9183.1,Em Operação
+CH-10644,EQP-156,Escavadeira Linha Amarela,Ribeirão Preto,2026-01-07 18:00:00,72,30.3,7551.05,Em Operação
+CH-10645,EQP-138,Escavadeira Linha Amarela,Ribeirão Preto,2026-06-14 15:00:00,72,15.4,1205.72,Em Operação
+CH-10646,EQP-208,Utilitário Leve,Uberlândia,2026-02-25 20:00:00,48,25.9,6300.17,Em Operação
+CH-10647,EQP-280,Escavadeira Linha Amarela,Cuiabá,2026-03-06 21:00:00,48,11.0,4316.62,Em Operação
+CH-10648,EQP-141,Caminhão Heavy Duty,Uberlândia,2026-02-16 03:00:00,24,19.5,4144.28,Em Operação
+CH-10649,EQP-285,Trator Agro,Jundiaí,2026-05-28 01:00:00,24,47.3,7346.4,Em Operação
+CH-10650,EQP-266,Escavadeira Linha Amarela,Uberlândia,2026-01-19 12:00:00,72,119.3,4071.2,Em Operação
+CH-10651,EQP-241,Caminhão Heavy Duty,Mogi das Cruzes,2026-06-06 00:00:00,72,80.9,9389.66,Em Operação
+CH-10652,EQP-221,Escavadeira Linha Amarela,Jundiaí,2026-05-26 16:00:00,24,81.5,1128.26,Em Operação
+CH-10653,EQP-232,Trator Agro,Jundiaí,2026-06-12 12:00:00,24,15.4,8026.54,Em Manutenção
+CH-10654,EQP-262,Caminhão Heavy Duty,Cuiabá,2026-06-20 03:00:00,48,19.0,9767.58,Em Operação
+CH-10655,EQP-174,Trator Agro,Ribeirão Preto,2026-05-06 06:00:00,24,36.7,8172.13,Em Operação
+CH-10656,EQP-245,Trator Agro,Jundiaí,2026-05-19 16:00:00,24,76.6,6117.58,Em Operação
+CH-10657,EQP-175,Caminhão Heavy Duty,Ribeirão Preto,2026-02-18 08:00:00,72,4.6,11418.59,Em Operação
+CH-10658,EQP-108,Caminhão Heavy Duty,Uberlândia,2026-04-23 03:00:00,24,10.9,3809.28,Em Manutenção
+CH-10659,EQP-173,Caminhão Heavy Duty,Mogi das Cruzes,2026-02-07 18:00:00,72,4.5,524.26,Em Operação
+CH-10660,EQP-285,Utilitário Leve,Cuiabá,2026-03-05 00:00:00,24,28.4,5354.28,Em Operação
+CH-10661,EQP-244,Caminhão Heavy Duty,Ribeirão Preto,2026-03-10 09:00:00,48,11.0,686.24,Em Operação
+CH-10662,EQP-106,Caminhão Heavy Duty,Jundiaí,2026-05-16 03:00:00,24,11.8,11461.06,Em Operação
+CH-10663,EQP-273,Caminhão Heavy Duty,Ribeirão Preto,2026-06-11 08:00:00,24,2.2,2756.04,Em Operação
+CH-10664,EQP-240,Caminhão Heavy Duty,Jundiaí,2026-06-25 12:00:00,24,12.9,9530.45,Em Manutenção
+CH-10665,EQP-267,Escavadeira Linha Amarela,Ribeirão Preto,2026-04-26 13:00:00,72,59.5,9362.49,Em Operação
+CH-10666,EQP-269,Utilitário Leve,Jundiaí,2026-03-06 09:00:00,48,8.0,2847.43,Em Operação
+CH-10667,EQP-236,Trator Agro,Uberlândia,2026-01-31 05:00:00,24,35.6,7568.35,Em Manutenção
+CH-10668,EQP-277,Caminhão Heavy Duty,Jundiaí,2026-05-12 15:00:00,72,29.8,862.52,Em Operação
+CH-10669,EQP-126,Escavadeira Linha Amarela,Jundiaí,2026-04-23 05:00:00,48,59.7,5957.82,Em Operação
+CH-10670,EQP-221,Escavadeira Linha Amarela,Mogi das Cruzes,2026-04-19 16:00:00,72,4.3,471.37,Em Operação
+CH-10671,EQP-293,Escavadeira Linha Amarela,Jundiaí,2026-06-27 09:00:00,72,113.9,11077.38,Em Operação
+CH-10672,EQP-104,Trator Agro,Mogi das Cruzes,2026-03-10 17:00:00,48,26.2,11720.21,Em Operação
+CH-10673,EQP-128,Caminhão Heavy Duty,Cuiabá,2026-06-07 21:00:00,24,161.9,2900.71,Em Operação
+CH-10674,EQP-264,Utilitário Leve,Mogi das Cruzes,2026-04-30 17:00:00,72,72.7,2734.84,Em Operação
+CH-10675,EQP-265,Utilitário Leve,Uberlândia,2026-03-29 02:00:00,72,7.5,9118.53,Em Operação
+CH-10676,EQP-182,Escavadeira Linha Amarela,Mogi das Cruzes,2026-03-08 19:00:00,24,1.7,3264.54,Em Operação
+CH-10677,EQP-235,Trator Agro,Cuiabá,2026-03-16 20:00:00,24,8.9,10772.4,Em Operação
+CH-10678,EQP-208,Trator Agro,Uberlândia,2026-02-14 14:00:00,48,22.5,7014.97,Em Operação
+CH-10679,EQP-164,Trator Agro,Ribeirão Preto,2026-01-04 14:00:00,48,5.6,4404.1,Em Operação
+CH-10680,EQP-185,Utilitário Leve,Ribeirão Preto,2026-06-03 03:00:00,48,5.5,10042.52,Em Operação
+CH-10681,EQP-244,Escavadeira Linha Amarela,Mogi das Cruzes,2026-06-04 08:00:00,24,18.6,6072.86,Em Operação
+CH-10682,EQP-170,Caminhão Heavy Duty,Mogi das Cruzes,2026-06-23 18:00:00,72,1.0,10966.11,Em Operação
+CH-10683,EQP-144,Utilitário Leve,Cuiabá,2026-04-17 16:00:00,72,3.9,11157.77,Em Operação
+CH-10684,EQP-231,Escavadeira Linha Amarela,Cuiabá,2026-02-20 10:00:00,48,16.1,2235.42,Em Operação
+CH-10685,EQP-135,Escavadeira Linha Amarela,Jundiaí,2026-02-19 08:00:00,24,2.0,327.18,Em Operação
+CH-10686,EQP-169,Caminhão Heavy Duty,Cuiabá,2026-01-06 09:00:00,72,15.2,11811.99,Em Operação
+CH-10687,EQP-258,Caminhão Heavy Duty,Jundiaí,2026-02-28 17:00:00,48,19.3,10901.81,Em Operação
+CH-10688,EQP-118,Caminhão Heavy Duty,Uberlândia,2026-05-05 19:00:00,72,18.0,948.71,Em Operação
+CH-10689,EQP-288,Trator Agro,Mogi das Cruzes,2026-05-23 12:00:00,72,61.0,10046.5,Em Operação
+CH-10690,EQP-207,Caminhão Heavy Duty,Uberlândia,2026-01-30 07:00:00,24,22.7,5656.32,Em Operação
+CH-10691,EQP-281,Escavadeira Linha Amarela,Cuiabá,2026-06-19 06:00:00,24,18.9,3329.85,Em Manutenção
+CH-10692,EQP-266,Caminhão Heavy Duty,Uberlândia,2026-05-02 16:00:00,72,15.9,10581.33,Em Operação
+CH-10693,EQP-190,Escavadeira Linha Amarela,Uberlândia,2026-05-05 20:00:00,48,51.1,2601.01,Em Operação
+CH-10694,EQP-189,Utilitário Leve,Uberlândia,2026-02-06 22:00:00,24,67.6,11383.41,Em Operação
+CH-10695,EQP-118,Trator Agro,Cuiabá,2026-06-19 14:00:00,72,57.6,2705.77,Em Operação
+CH-10696,EQP-138,Utilitário Leve,Uberlândia,2026-05-04 19:00:00,24,33.6,7480.09,Em Operação
+CH-10697,EQP-225,Utilitário Leve,Jundiaí,2026-04-11 14:00:00,24,4.4,2910.11,Em Operação
+CH-10698,EQP-294,Escavadeira Linha Amarela,Cuiabá,2026-02-04 00:00:00,24,9.7,6684.32,Em Operação
+CH-10699,EQP-272,Utilitário Leve,Uberlândia,2026-03-28 13:00:00,72,1.4,8302.51,Em Operação
+CH-10700,EQP-240,Escavadeira Linha Amarela,Cuiabá,2026-05-14 04:00:00,48,80.1,2525.67,Em Operação
+CH-10701,EQP-225,Caminhão Heavy Duty,Ribeirão Preto,2026-01-18 10:00:00,48,32.4,6394.36,Em Operação
+CH-10702,EQP-157,Caminhão Heavy Duty,Jundiaí,2026-04-23 15:00:00,48,41.2,5788.0,Em Operação
+CH-10703,EQP-247,Escavadeira Linha Amarela,Uberlândia,2026-01-29 01:00:00,24,11.2,1131.14,Em Operação
+CH-10704,EQP-299,Caminhão Heavy Duty,Ribeirão Preto,2026-03-18 07:00:00,72,56.1,9874.2,Em Operação
+CH-10705,EQP-160,Trator Agro,Ribeirão Preto,2026-02-28 10:00:00,24,9.0,4227.48,Em Operação
+CH-10706,EQP-226,Utilitário Leve,Cuiabá,2026-06-24 17:00:00,48,0.0,7022.61,Em Operação
+CH-10707,EQP-204,Trator Agro,Ribeirão Preto,2026-05-06 02:00:00,48,14.2,6322.98,Em Manutenção
+CH-10708,EQP-266,Utilitário Leve,Jundiaí,2026-05-25 00:00:00,72,25.4,6305.15,Em Manutenção
+CH-10709,EQP-100,Caminhão Heavy Duty,Jundiaí,2026-04-19 10:00:00,24,19.5,1554.5,Em Operação
+CH-10710,EQP-230,Trator Agro,Mogi das Cruzes,2026-01-22 15:00:00,48,59.4,5254.74,Em Operação
+CH-10711,EQP-191,Caminhão Heavy Duty,Jundiaí,2026-03-09 17:00:00,72,3.3,5592.69,Em Operação
+CH-10712,EQP-289,Utilitário Leve,Ribeirão Preto,2026-03-10 15:00:00,24,24.2,8883.62,Em Operação
+CH-10713,EQP-290,Escavadeira Linha Amarela,Jundiaí,2026-06-14 22:00:00,24,21.6,10128.22,Em Operação
+CH-10714,EQP-212,Escavadeira Linha Amarela,Cuiabá,2026-02-18 09:00:00,48,9.9,6676.29,Em Operação
+CH-10715,EQP-252,Trator Agro,Mogi das Cruzes,2026-05-21 17:00:00,48,51.8,1315.36,Em Manutenção
+CH-10716,EQP-155,Caminhão Heavy Duty,Ribeirão Preto,2026-06-11 05:00:00,24,41.9,3071.14,Em Operação
+CH-10717,EQP-260,Caminhão Heavy Duty,Mogi das Cruzes,2026-04-19 18:00:00,24,39.6,2229.73,Em Operação
+CH-10718,EQP-265,Trator Agro,Ribeirão Preto,2026-03-27 03:00:00,48,62.7,1758.0,Em Operação
+CH-10719,EQP-216,Escavadeira Linha Amarela,Cuiabá,2026-02-22 12:00:00,24,38.5,4581.02,Em Operação
+CH-10720,EQP-233,Utilitário Leve,Mogi das Cruzes,2026-05-03 13:00:00,48,7.9,2983.9,Em Operação
+CH-10721,EQP-157,Trator Agro,Uberlândia,2026-03-28 02:00:00,24,36.7,2854.15,Em Operação
+CH-10722,EQP-143,Utilitário Leve,Ribeirão Preto,2026-06-28 09:00:00,48,11.0,939.91,Em Operação
+CH-10723,EQP-272,Escavadeira Linha Amarela,Uberlândia,2026-05-11 05:00:00,72,8.3,506.74,Em Operação
+CH-10724,EQP-259,Caminhão Heavy Duty,Mogi das Cruzes,2026-02-11 00:00:00,48,2.3,1502.39,Em Manutenção
+CH-10725,EQP-272,Escavadeira Linha Amarela,Uberlândia,2026-04-08 22:00:00,48,40.9,2314.71,Em Operação
+CH-10726,EQP-160,Trator Agro,Uberlândia,2026-06-09 13:00:00,72,37.2,5342.51,Em Operação
+CH-10727,EQP-146,Caminhão Heavy Duty,Mogi das Cruzes,2026-04-19 07:00:00,24,8.0,6273.09,Em Operação
+CH-10728,EQP-248,Trator Agro,Cuiabá,2026-02-20 18:00:00,72,41.5,1944.93,Em Operação
+CH-10729,EQP-179,Trator Agro,Uberlândia,2026-03-26 13:00:00,48,75.0,5269.97,Em Operação
+CH-10730,EQP-217,Escavadeira Linha Amarela,Uberlândia,2026-06-23 09:00:00,24,3.4,4298.46,Em Manutenção
+CH-10731,EQP-263,Trator Agro,Cuiabá,2026-05-07 16:00:00,72,7.9,2446.06,Em Operação
+CH-10732,EQP-246,Escavadeira Linha Amarela,Uberlândia,2026-01-21 08:00:00,24,41.6,380.04,Em Manutenção
+CH-10733,EQP-119,Caminhão Heavy Duty,Uberlândia,2026-02-13 05:00:00,24,9.6,5764.11,Em Operação
+CH-10734,EQP-284,Escavadeira Linha Amarela,Uberlândia,2026-05-19 10:00:00,72,29.4,8322.13,Em Operação
+CH-10735,EQP-245,Caminhão Heavy Duty,Jundiaí,2026-04-13 06:00:00,24,2.5,2947.44,Em Manutenção
+CH-10736,EQP-146,Escavadeira Linha Amarela,Cuiabá,2026-03-09 16:00:00,72,18.1,1842.14,Em Operação
+CH-10737,EQP-148,Utilitário Leve,Uberlândia,2026-05-09 00:00:00,48,40.3,10678.4,Em Operação
+CH-10738,EQP-113,Utilitário Leve,Cuiabá,2026-04-02 21:00:00,24,34.8,3517.79,Em Operação
+CH-10739,EQP-242,Trator Agro,Ribeirão Preto,2026-01-24 04:00:00,48,50.6,2916.27,Em Operação
+CH-10740,EQP-258,Escavadeira Linha Amarela,Ribeirão Preto,2026-05-05 08:00:00,48,63.0,10328.03,Em Operação
+CH-10741,EQP-100,Escavadeira Linha Amarela,Uberlândia,2026-05-21 17:00:00,24,44.5,9860.15,Em Manutenção
+CH-10742,EQP-216,Caminhão Heavy Duty,Cuiabá,2026-04-21 20:00:00,72,33.4,5545.65,Em Operação
+CH-10743,EQP-153,Trator Agro,Cuiabá,2026-04-08 01:00:00,24,1.0,6024.09,Em Operação
+CH-10744,EQP-217,Escavadeira Linha Amarela,Cuiabá,2026-05-19 10:00:00,48,23.0,2847.66,Em Manutenção
+CH-10745,EQP-102,Trator Agro,Jundiaí,2026-06-28 05:00:00,48,1.2,1216.13,Em Operação
+CH-10746,EQP-243,Utilitário Leve,Ribeirão Preto,2026-01-17 07:00:00,72,49.5,7009.15,Em Operação
+CH-10747,EQP-284,Escavadeira Linha Amarela,Cuiabá,2026-04-09 03:00:00,24,11.6,1450.64,Em Operação
+CH-10748,EQP-111,Escavadeira Linha Amarela,Cuiabá,2026-03-23 17:00:00,48,24.8,5556.51,Em Operação
+CH-10749,EQP-173,Trator Agro,Jundiaí,2026-04-14 10:00:00,48,9.8,11303.82,Em Operação
+CH-10750,EQP-115,Escavadeira Linha Amarela,Jundiaí,2026-06-01 04:00:00,48,45.8,11448.16,Em Manutenção
+CH-10751,EQP-299,Trator Agro,Cuiabá,2026-01-19 14:00:00,72,65.3,3100.19,Em Operação
+CH-10752,EQP-201,Escavadeira Linha Amarela,Mogi das Cruzes,2026-06-14 17:00:00,48,15.3,7602.13,Em Operação
+CH-10753,EQP-251,Caminhão Heavy Duty,Cuiabá,2026-03-26 01:00:00,48,59.6,5846.69,Em Operação
+CH-10754,EQP-255,Trator Agro,Cuiabá,2026-01-08 21:00:00,24,9.3,10545.52,Em Operação
+CH-10755,EQP-216,Escavadeira Linha Amarela,Jundiaí,2026-01-28 10:00:00,24,22.9,3475.74,Em Operação
+CH-10756,EQP-107,Utilitário Leve,Jundiaí,2026-01-05 12:00:00,48,58.7,343.32,Em Operação
+CH-10757,EQP-221,Escavadeira Linha Amarela,Cuiabá,2026-05-25 03:00:00,48,11.8,2201.97,Em Operação
+CH-10758,EQP-191,Utilitário Leve,Cuiabá,2026-04-11 21:00:00,24,92.4,4389.42,Em Operação
+CH-10759,EQP-263,Utilitário Leve,Cuiabá,2026-06-13 06:00:00,72,3.9,3993.94,Em Operação
+CH-10760,EQP-189,Caminhão Heavy Duty,Jundiaí,2026-04-28 10:00:00,72,0.6,9558.95,Em Operação
+CH-10761,EQP-235,Trator Agro,Cuiabá,2026-05-27 21:00:00,72,70.3,8262.56,Em Operação
+CH-10762,EQP-285,Escavadeira Linha Amarela,Cuiabá,2026-03-05 03:00:00,72,2.1,3804.81,Em Operação
+CH-10763,EQP-159,Caminhão Heavy Duty,Uberlândia,2026-04-01 14:00:00,72,144.4,5655.6,Em Operação
+CH-10764,EQP-277,Escavadeira Linha Amarela,Mogi das Cruzes,2026-04-27 00:00:00,72,90.7,1418.04,Em Operação
+CH-10765,EQP-127,Utilitário Leve,Ribeirão Preto,2026-04-08 22:00:00,72,4.4,10808.31,Em Operação
+CH-10766,EQP-200,Trator Agro,Mogi das Cruzes,2026-01-11 02:00:00,72,23.1,11244.47,Em Operação
+CH-10767,EQP-140,Escavadeira Linha Amarela,Uberlândia,2026-02-23 13:00:00,24,6.1,11763.7,Em Operação
+CH-10768,EQP-291,Escavadeira Linha Amarela,Ribeirão Preto,2026-06-22 05:00:00,72,16.8,10462.07,Em Operação
+CH-10769,EQP-254,Utilitário Leve,Cuiabá,2026-02-16 17:00:00,72,1.9,2335.34,Em Operação
+CH-10770,EQP-290,Escavadeira Linha Amarela,Uberlândia,2026-05-20 00:00:00,72,7.6,840.5,Em Operação
+CH-10771,EQP-244,Escavadeira Linha Amarela,Cuiabá,2026-05-29 05:00:00,48,13.5,7081.28,Em Operação
+CH-10772,EQP-260,Utilitário Leve,Jundiaí,2026-05-19 05:00:00,24,17.3,10977.48,Em Operação
+CH-10773,EQP-256,Caminhão Heavy Duty,Uberlândia,2026-01-05 20:00:00,24,113.8,2375.01,Em Manutenção
+CH-10774,EQP-240,Utilitário Leve,Jundiaí,2026-01-20 15:00:00,24,49.5,382.4,Em Manutenção
+CH-10775,EQP-145,Caminhão Heavy Duty,Uberlândia,2026-06-18 04:00:00,72,40.1,9724.3,Em Operação
+CH-10776,EQP-134,Trator Agro,Uberlândia,2026-02-15 16:00:00,72,23.1,1198.51,Em Operação
+CH-10777,EQP-233,Caminhão Heavy Duty,Jundiaí,2026-01-12 09:00:00,48,55.0,5140.36,Em Operação
+CH-10778,EQP-181,Caminhão Heavy Duty,Ribeirão Preto,2026-03-11 20:00:00,24,12.4,8242.98,Em Operação
+CH-10779,EQP-214,Trator Agro,Mogi das Cruzes,2026-01-17 17:00:00,72,37.0,3070.53,Em Operação
+CH-10780,EQP-296,Caminhão Heavy Duty,Cuiabá,2026-04-25 06:00:00,24,152.4,1282.36,Em Operação
+CH-10781,EQP-146,Utilitário Leve,Uberlândia,2026-05-27 02:00:00,48,11.3,9309.25,Em Operação
+CH-10782,EQP-252,Caminhão Heavy Duty,Cuiabá,2026-06-03 12:00:00,48,33.6,7673.05,Em Operação
+CH-10783,EQP-293,Trator Agro,Jundiaí,2026-02-17 14:00:00,48,55.8,11865.34,Em Manutenção
+CH-10784,EQP-109,Utilitário Leve,Cuiabá,2026-04-18 19:00:00,24,74.2,4328.4,Em Operação
+CH-10785,EQP-155,Trator Agro,Jundiaí,2026-02-21 18:00:00,72,38.0,1022.62,Em Operação
+CH-10786,EQP-129,Trator Agro,Cuiabá,2026-04-06 02:00:00,72,10.0,8891.9,Em Operação
+CH-10787,EQP-208,Escavadeira Linha Amarela,Mogi das Cruzes,2026-03-11 03:00:00,48,11.8,6404.28,Em Operação
+CH-10788,EQP-104,Escavadeira Linha Amarela,Mogi das Cruzes,2026-04-12 04:00:00,72,0.6,2794.49,Em Operação
+CH-10789,EQP-218,Trator Agro,Mogi das Cruzes,2026-03-16 00:00:00,48,42.9,9446.23,Em Operação
+CH-10790,EQP-132,Trator Agro,Mogi das Cruzes,2026-06-10 03:00:00,24,1.3,2683.94,Em Operação
+CH-10791,EQP-217,Trator Agro,Mogi das Cruzes,2026-05-31 11:00:00,48,60.0,3349.74,Em Operação
+CH-10792,EQP-164,Escavadeira Linha Amarela,Mogi das Cruzes,2026-05-23 09:00:00,24,3.8,1382.58,Em Operação
+CH-10793,EQP-245,Escavadeira Linha Amarela,Jundiaí,2026-06-04 22:00:00,48,5.7,4973.36,Em Manutenção
+CH-10794,EQP-276,Caminhão Heavy Duty,Uberlândia,2026-06-28 20:00:00,72,19.4,5201.47,Em Operação
+CH-10795,EQP-110,Caminhão Heavy Duty,Cuiabá,2026-03-23 19:00:00,72,40.2,6320.37,Em Operação
+CH-10796,EQP-184,Trator Agro,Mogi das Cruzes,2026-04-02 12:00:00,48,4.5,8594.88,Em Operação
+CH-10797,EQP-125,Utilitário Leve,Jundiaí,2026-06-28 22:00:00,72,17.4,10901.38,Em Operação
+CH-10798,EQP-162,Utilitário Leve,Jundiaí,2026-06-24 13:00:00,72,19.8,1911.49,Em Operação
+CH-10799,EQP-185,Escavadeira Linha Amarela,Jundiaí,2026-01-04 22:00:00,72,7.2,935.87,Em Operação
+CH-10800,EQP-158,Escavadeira Linha Amarela,Uberlândia,2026-05-15 04:00:00,24,3.7,516.82,Em Operação
+CH-10801,EQP-126,Escavadeira Linha Amarela,Cuiabá,2026-04-19 03:00:00,72,54.3,1980.37,Em Operação
+CH-10802,EQP-276,Trator Agro,Uberlândia,2026-06-12 13:00:00,24,20.9,7998.01,Em Operação
+CH-10803,EQP-260,Utilitário Leve,Ribeirão Preto,2026-02-17 09:00:00,48,0.4,8811.48,Em Operação
+CH-10804,EQP-197,Caminhão Heavy Duty,Jundiaí,2026-03-14 16:00:00,72,48.7,9502.12,Em Manutenção
+CH-10805,EQP-204,Trator Agro,Ribeirão Preto,2026-03-13 09:00:00,72,118.6,3151.39,Em Operação
+CH-10806,EQP-198,Caminhão Heavy Duty,Mogi das Cruzes,2026-04-26 06:00:00,72,27.9,3878.97,Em Operação
+CH-10807,EQP-228,Caminhão Heavy Duty,Mogi das Cruzes,2026-06-22 15:00:00,48,21.0,5952.68,Em Operação
+CH-10808,EQP-248,Trator Agro,Uberlândia,2026-03-22 00:00:00,24,63.2,1039.24,Em Manutenção
+CH-10809,EQP-154,Caminhão Heavy Duty,Cuiabá,2026-03-22 16:00:00,24,91.4,7450.36,Em Operação
+CH-10810,EQP-105,Utilitário Leve,Ribeirão Preto,2026-04-23 20:00:00,72,42.1,11809.7,Em Operação
+CH-10811,EQP-296,Caminhão Heavy Duty,Cuiabá,2026-04-06 08:00:00,48,17.7,4521.43,Em Operação
+CH-10812,EQP-194,Utilitário Leve,Uberlândia,2026-03-13 05:00:00,48,26.9,9108.32,Em Operação
+CH-10813,EQP-232,Utilitário Leve,Mogi das Cruzes,2026-05-27 18:00:00,48,36.2,6150.4,Em Operação
+CH-10814,EQP-201,Utilitário Leve,Cuiabá,2026-03-04 12:00:00,48,6.5,1795.4,Em Operação
+CH-10815,EQP-102,Escavadeira Linha Amarela,Cuiabá,2026-02-07 02:00:00,48,17.8,7112.18,Em Manutenção
+CH-10816,EQP-280,Caminhão Heavy Duty,Mogi das Cruzes,2026-03-08 06:00:00,24,53.1,3808.53,Em Operação
+CH-10817,EQP-122,Trator Agro,Ribeirão Preto,2026-03-10 21:00:00,24,31.9,702.52,Em Manutenção
+CH-10818,EQP-152,Trator Agro,Mogi das Cruzes,2026-01-13 08:00:00,24,15.9,7728.68,Em Operação
+CH-10819,EQP-264,Caminhão Heavy Duty,Cuiabá,2026-06-24 21:00:00,72,32.7,10349.51,Em Operação
+CH-10820,EQP-182,Escavadeira Linha Amarela,Ribeirão Preto,2026-01-31 04:00:00,48,3.8,4333.81,Em Manutenção
+CH-10821,EQP-244,Escavadeira Linha Amarela,Ribeirão Preto,2026-04-24 09:00:00,72,15.4,4866.46,Em Operação
+CH-10822,EQP-184,Utilitário Leve,Mogi das Cruzes,2026-01-22 22:00:00,48,47.3,10724.95,Em Operação
+CH-10823,EQP-177,Caminhão Heavy Duty,Cuiabá,2026-04-03 16:00:00,24,7.5,9819.22,Em Operação
+CH-10824,EQP-209,Caminhão Heavy Duty,Uberlândia,2026-06-20 11:00:00,72,6.2,8664.95,Em Operação
+CH-10825,EQP-100,Trator Agro,Cuiabá,2026-03-08 22:00:00,24,90.4,3210.93,Em Operação
+CH-10826,EQP-150,Caminhão Heavy Duty,Jundiaí,2026-02-23 15:00:00,48,7.1,10949.53,Em Operação
+CH-10827,EQP-272,Escavadeira Linha Amarela,Uberlândia,2026-05-18 02:00:00,48,9.1,2106.66,Em Operação
+CH-10828,EQP-103,Caminhão Heavy Duty,Ribeirão Preto,2026-02-11 21:00:00,48,104.8,7633.22,Em Operação
+CH-10829,EQP-289,Trator Agro,Uberlândia,2026-03-05 08:00:00,24,39.8,636.97,Em Operação
+CH-10830,EQP-292,Utilitário Leve,Ribeirão Preto,2026-05-06 14:00:00,48,36.1,7831.52,Em Operação
+CH-10831,EQP-212,Trator Agro,Ribeirão Preto,2026-01-21 04:00:00,24,57.5,3542.59,Em Operação
+CH-10832,EQP-131,Trator Agro,Uberlândia,2026-06-18 22:00:00,72,3.7,5561.22,Em Operação
+CH-10833,EQP-133,Utilitário Leve,Ribeirão Preto,2026-06-01 12:00:00,48,36.7,4339.6,Em Operação
+CH-10834,EQP-191,Trator Agro,Ribeirão Preto,2026-02-04 13:00:00,48,21.0,2321.25,Em Operação
+CH-10835,EQP-194,Trator Agro,Jundiaí,2026-01-30 19:00:00,48,53.0,7577.18,Em Operação
+CH-10836,EQP-171,Caminhão Heavy Duty,Cuiabá,2026-02-26 14:00:00,72,21.3,10619.11,Em Manutenção
+CH-10837,EQP-138,Caminhão Heavy Duty,Cuiabá,2026-02-16 15:00:00,48,29.0,11521.29,Em Operação
+CH-10838,EQP-253,Utilitário Leve,Jundiaí,2026-06-12 22:00:00,24,19.5,2550.45,Em Operação
+CH-10839,EQP-261,Caminhão Heavy Duty,Uberlândia,2026-01-19 12:00:00,24,19.5,8693.26,Em Operação
+CH-10840,EQP-281,Caminhão Heavy Duty,Mogi das Cruzes,2026-04-24 16:00:00,48,43.8,8072.77,Em Operação
+CH-10841,EQP-217,Trator Agro,Mogi das Cruzes,2026-01-08 22:00:00,48,29.7,4317.52,Em Operação
+CH-10842,EQP-102,Escavadeira Linha Amarela,Mogi das Cruzes,2026-01-26 07:00:00,72,30.1,523.46,Em Operação
+CH-10843,EQP-222,Caminhão Heavy Duty,Jundiaí,2026-04-23 20:00:00,72,18.0,8370.56,Em Operação
+CH-10844,EQP-149,Escavadeira Linha Amarela,Jundiaí,2026-03-12 01:00:00,72,22.7,11362.29,Em Manutenção
+CH-10845,EQP-111,Caminhão Heavy Duty,Ribeirão Preto,2026-01-30 04:00:00,48,41.1,7695.81,Em Operação
+CH-10846,EQP-292,Caminhão Heavy Duty,Mogi das Cruzes,2026-05-15 05:00:00,72,52.5,5392.92,Em Operação
+CH-10847,EQP-153,Utilitário Leve,Uberlândia,2026-03-08 11:00:00,72,35.8,6444.3,Em Operação
+CH-10848,EQP-232,Utilitário Leve,Uberlândia,2026-03-06 17:00:00,24,77.3,2635.66,Em Manutenção
+CH-10849,EQP-156,Utilitário Leve,Mogi das Cruzes,2026-02-05 21:00:00,72,51.5,9081.37,Em Operação
+CH-10850,EQP-244,Escavadeira Linha Amarela,Mogi das Cruzes,2026-01-25 21:00:00,24,24.8,9033.11,Em Operação
+CH-10851,EQP-211,Trator Agro,Mogi das Cruzes,2026-02-06 00:00:00,24,33.4,2002.55,Em Operação
+CH-10852,EQP-146,Caminhão Heavy Duty,Jundiaí,2026-01-01 16:00:00,72,78.2,10572.35,Em Operação
+CH-10853,EQP-250,Caminhão Heavy Duty,Jundiaí,2026-05-23 10:00:00,24,29.0,3449.52,Em Operação
+CH-10854,EQP-184,Caminhão Heavy Duty,Jundiaí,2026-02-06 09:00:00,48,52.3,11792.4,Em Operação
+CH-10855,EQP-241,Escavadeira Linha Amarela,Cuiabá,2026-05-21 18:00:00,48,35.0,4779.97,Em Operação
+CH-10856,EQP-165,Utilitário Leve,Uberlândia,2026-05-16 13:00:00,72,24.1,2381.24,Em Operação
+CH-10857,EQP-174,Trator Agro,Uberlândia,2026-05-13 09:00:00,48,8.3,4415.13,Em Operação
+CH-10858,EQP-278,Escavadeira Linha Amarela,Ribeirão Preto,2026-05-08 14:00:00,24,16.7,5450.11,Em Operação
+CH-10859,EQP-202,Utilitário Leve,Jundiaí,2026-05-07 18:00:00,48,103.0,1110.9,Em Operação
+CH-10860,EQP-265,Escavadeira Linha Amarela,Cuiabá,2026-01-01 03:00:00,72,32.2,7065.16,Em Operação
+CH-10861,EQP-291,Trator Agro,Cuiabá,2026-06-13 01:00:00,72,24.9,7292.3,Em Operação
+CH-10862,EQP-137,Utilitário Leve,Uberlândia,2026-02-04 08:00:00,24,81.1,8945.49,Em Operação
+CH-10863,EQP-149,Escavadeira Linha Amarela,Jundiaí,2026-04-14 09:00:00,72,26.5,641.29,Em Operação
+CH-10864,EQP-197,Trator Agro,Ribeirão Preto,2026-01-23 10:00:00,48,22.4,6632.49,Em Operação
+CH-10865,EQP-181,Caminhão Heavy Duty,Jundiaí,2026-01-09 13:00:00,72,42.7,919.02,Em Operação
+CH-10866,EQP-129,Trator Agro,Mogi das Cruzes,2026-02-03 06:00:00,24,37.4,8503.39,Em Operação
+CH-10867,EQP-178,Caminhão Heavy Duty,Jundiaí,2026-06-23 22:00:00,72,6.4,952.02,Em Operação
+CH-10868,EQP-190,Escavadeira Linha Amarela,Mogi das Cruzes,2026-05-08 14:00:00,48,19.1,10967.22,Em Operação
+CH-10869,EQP-278,Utilitário Leve,Mogi das Cruzes,2026-01-04 21:00:00,24,19.2,8514.37,Em Operação
+CH-10870,EQP-290,Utilitário Leve,Ribeirão Preto,2026-06-07 18:00:00,48,14.3,6236.46,Em Manutenção
+CH-10871,EQP-151,Escavadeira Linha Amarela,Uberlândia,2026-04-12 21:00:00,24,21.9,5465.6,Em Operação
+CH-10872,EQP-265,Utilitário Leve,Jundiaí,2026-03-16 14:00:00,72,16.0,1828.87,Em Manutenção
+CH-10873,EQP-178,Utilitário Leve,Mogi das Cruzes,2026-04-09 07:00:00,24,6.7,3704.69,Em Operação
+CH-10874,EQP-129,Caminhão Heavy Duty,Jundiaí,2026-03-13 10:00:00,24,15.9,10466.82,Em Operação
+CH-10875,EQP-205,Escavadeira Linha Amarela,Uberlândia,2026-01-03 08:00:00,72,2.3,10882.1,Em Operação
+CH-10876,EQP-150,Trator Agro,Uberlândia,2026-05-22 14:00:00,48,25.7,308.75,Em Operação
+CH-10877,EQP-180,Caminhão Heavy Duty,Cuiabá,2026-06-22 00:00:00,72,57.7,7251.4,Em Operação
+CH-10878,EQP-232,Escavadeira Linha Amarela,Uberlândia,2026-02-03 00:00:00,24,38.8,8715.82,Em Operação
+CH-10879,EQP-128,Caminhão Heavy Duty,Ribeirão Preto,2026-02-14 18:00:00,72,13.4,7539.34,Em Operação
+CH-10880,EQP-231,Trator Agro,Mogi das Cruzes,2026-03-02 02:00:00,24,2.7,1255.65,Em Operação
+CH-10881,EQP-237,Trator Agro,Cuiabá,2026-03-24 09:00:00,72,6.8,2847.38,Em Operação
+CH-10882,EQP-283,Escavadeira Linha Amarela,Ribeirão Preto,2026-05-03 07:00:00,72,23.7,3228.98,Em Operação
+CH-10883,EQP-244,Trator Agro,Jundiaí,2026-04-12 14:00:00,48,7.0,10031.18,Em Operação
+CH-10884,EQP-173,Caminhão Heavy Duty,Mogi das Cruzes,2026-01-16 09:00:00,24,23.6,5719.43,Em Operação
+CH-10885,EQP-116,Trator Agro,Uberlândia,2026-03-07 00:00:00,48,7.9,5995.89,Em Operação
+CH-10886,EQP-183,Caminhão Heavy Duty,Mogi das Cruzes,2026-06-17 17:00:00,24,56.7,11238.25,Em Operação
+CH-10887,EQP-168,Caminhão Heavy Duty,Jundiaí,2026-05-25 01:00:00,72,15.2,7753.9,Em Operação
+CH-10888,EQP-133,Trator Agro,Cuiabá,2026-04-29 18:00:00,24,8.5,10814.41,Em Manutenção
+CH-10889,EQP-105,Escavadeira Linha Amarela,Cuiabá,2026-06-11 12:00:00,48,50.2,5641.15,Em Operação
+CH-10890,EQP-152,Utilitário Leve,Cuiabá,2026-05-04 21:00:00,48,12.6,2048.4,Em Operação
+CH-10891,EQP-293,Trator Agro,Uberlândia,2026-05-24 00:00:00,48,3.5,11180.25,Em Operação
+CH-10892,EQP-225,Caminhão Heavy Duty,Ribeirão Preto,2026-04-12 01:00:00,24,25.3,5666.85,Em Operação
+CH-10893,EQP-142,Caminhão Heavy Duty,Ribeirão Preto,2026-03-07 15:00:00,48,26.1,2425.09,Em Operação
+CH-10894,EQP-214,Trator Agro,Mogi das Cruzes,2026-01-13 14:00:00,48,37.6,3838.03,Em Operação
+CH-10895,EQP-210,Escavadeira Linha Amarela,Uberlândia,2026-04-21 12:00:00,48,8.2,894.39,Em Operação
+CH-10896,EQP-250,Escavadeira Linha Amarela,Cuiabá,2026-06-08 15:00:00,72,17.6,5779.12,Em Manutenção
+CH-10897,EQP-282,Caminhão Heavy Duty,Cuiabá,2026-02-03 16:00:00,72,10.0,10281.6,Em Operação
+CH-10898,EQP-179,Caminhão Heavy Duty,Jundiaí,2026-02-08 20:00:00,24,2.5,11222.89,Em Operação
+CH-10899,EQP-194,Escavadeira Linha Amarela,Jundiaí,2026-05-16 06:00:00,24,62.8,11211.45,Em Manutenção
+CH-10900,EQP-217,Utilitário Leve,Cuiabá,2026-04-30 16:00:00,48,39.2,1765.19,Em Operação
+CH-10901,EQP-243,Trator Agro,Cuiabá,2026-05-06 06:00:00,72,10.8,4770.03,Em Operação
+CH-10902,EQP-107,Caminhão Heavy Duty,Uberlândia,2026-02-24 12:00:00,48,27.4,630.28,Em Operação
+CH-10903,EQP-231,Caminhão Heavy Duty,Ribeirão Preto,2026-01-27 04:00:00,48,6.7,10305.43,Em Operação
+CH-10904,EQP-203,Escavadeira Linha Amarela,Jundiaí,2026-04-28 16:00:00,72,66.3,4497.44,Em Operação
+CH-10905,EQP-231,Trator Agro,Ribeirão Preto,2026-02-22 02:00:00,72,3.7,7684.07,Em Operação
+CH-10906,EQP-283,Escavadeira Linha Amarela,Uberlândia,2026-02-08 06:00:00,72,0.1,8664.31,Em Operação
+CH-10907,EQP-124,Trator Agro,Cuiabá,2026-03-06 16:00:00,24,20.9,5329.18,Em Manutenção
+CH-10908,EQP-294,Trator Agro,Ribeirão Preto,2026-05-25 06:00:00,24,26.2,3885.38,Em Operação
+CH-10909,EQP-195,Trator Agro,Cuiabá,2026-06-07 20:00:00,48,26.0,11557.89,Em Manutenção
+CH-10910,EQP-294,Caminhão Heavy Duty,Cuiabá,2026-01-13 00:00:00,24,1.7,11584.51,Em Manutenção
+CH-10911,EQP-254,Utilitário Leve,Mogi das Cruzes,2026-01-21 16:00:00,72,11.3,3686.41,Em Operação
+CH-10912,EQP-192,Escavadeira Linha Amarela,Ribeirão Preto,2026-05-27 16:00:00,72,20.7,5911.61,Em Operação
+CH-10913,EQP-259,Utilitário Leve,Ribeirão Preto,2026-02-22 10:00:00,24,7.3,11682.28,Em Operação
+CH-10914,EQP-277,Escavadeira Linha Amarela,Cuiabá,2026-01-19 02:00:00,48,61.8,356.96,Em Operação
+CH-10915,EQP-160,Trator Agro,Uberlândia,2026-02-26 14:00:00,48,2.7,5128.34,Em Operação
+CH-10916,EQP-221,Caminhão Heavy Duty,Mogi das Cruzes,2026-01-25 20:00:00,24,20.0,1475.35,Em Manutenção
+CH-10917,EQP-150,Utilitário Leve,Cuiabá,2026-01-31 10:00:00,48,35.3,6257.15,Em Operação
+CH-10918,EQP-246,Caminhão Heavy Duty,Jundiaí,2026-03-22 15:00:00,48,9.1,588.64,Em Operação
+CH-10919,EQP-120,Escavadeira Linha Amarela,Jundiaí,2026-01-23 21:00:00,48,29.4,5060.71,Em Operação
+CH-10920,EQP-104,Caminhão Heavy Duty,Mogi das Cruzes,2026-02-01 08:00:00,72,53.1,2882.18,Em Operação
+CH-10921,EQP-191,Caminhão Heavy Duty,Uberlândia,2026-03-15 00:00:00,72,6.3,6539.71,Em Operação
+CH-10922,EQP-269,Utilitário Leve,Cuiabá,2026-01-10 21:00:00,24,74.7,11953.13,Em Operação
+CH-10923,EQP-160,Trator Agro,Ribeirão Preto,2026-02-23 15:00:00,72,24.2,9666.27,Em Operação
+CH-10924,EQP-121,Caminhão Heavy Duty,Mogi das Cruzes,2026-02-21 08:00:00,48,10.7,10194.01,Em Operação
+CH-10925,EQP-248,Trator Agro,Uberlândia,2026-05-28 18:00:00,72,16.9,7732.6,Em Operação
+CH-10926,EQP-169,Escavadeira Linha Amarela,Ribeirão Preto,2026-06-09 11:00:00,24,11.2,786.25,Em Operação
+CH-10927,EQP-100,Caminhão Heavy Duty,Jundiaí,2026-04-24 18:00:00,72,38.7,2719.53,Em Operação
+CH-10928,EQP-232,Utilitário Leve,Jundiaí,2026-01-14 21:00:00,48,47.7,11123.26,Em Operação
+CH-10929,EQP-111,Escavadeira Linha Amarela,Ribeirão Preto,2026-06-27 08:00:00,48,53.7,4583.52,Em Operação
+CH-10930,EQP-189,Escavadeira Linha Amarela,Mogi das Cruzes,2026-06-05 06:00:00,24,127.6,1512.55,Em Operação
+CH-10931,EQP-145,Utilitário Leve,Jundiaí,2026-04-20 13:00:00,72,47.0,8518.14,Em Operação
+CH-10932,EQP-133,Caminhão Heavy Duty,Cuiabá,2026-02-22 18:00:00,72,27.6,3803.66,Em Manutenção
+CH-10933,EQP-276,Caminhão Heavy Duty,Ribeirão Preto,2026-06-01 18:00:00,72,12.4,3445.63,Em Operação
+CH-10934,EQP-177,Escavadeira Linha Amarela,Ribeirão Preto,2026-03-20 01:00:00,48,23.6,11976.34,Em Operação
+CH-10935,EQP-144,Caminhão Heavy Duty,Jundiaí,2026-01-22 08:00:00,24,1.3,10340.23,Em Manutenção
+CH-10936,EQP-254,Trator Agro,Mogi das Cruzes,2026-01-30 12:00:00,72,41.0,5072.87,Em Operação
+CH-10937,EQP-172,Utilitário Leve,Cuiabá,2026-01-04 14:00:00,48,17.7,11769.06,Em Operação
+CH-10938,EQP-125,Trator Agro,Mogi das Cruzes,2026-02-28 02:00:00,48,0.6,7906.32,Em Manutenção
+CH-10939,EQP-146,Caminhão Heavy Duty,Uberlândia,2026-01-08 10:00:00,48,1.9,8981.66,Em Operação
+CH-10940,EQP-220,Escavadeira Linha Amarela,Uberlândia,2026-01-12 20:00:00,72,14.7,668.7,Em Operação
+CH-10941,EQP-155,Utilitário Leve,Jundiaí,2026-04-29 13:00:00,72,26.3,1722.78,Em Manutenção
+CH-10942,EQP-193,Caminhão Heavy Duty,Jundiaí,2026-06-08 07:00:00,72,18.7,7707.1,Em Operação
+CH-10943,EQP-206,Caminhão Heavy Duty,Jundiaí,2026-02-03 17:00:00,72,29.0,10818.58,Em Operação
+CH-10944,EQP-162,Escavadeira Linha Amarela,Uberlândia,2026-03-23 18:00:00,72,19.6,7597.8,Em Operação
+CH-10945,EQP-147,Escavadeira Linha Amarela,Mogi das Cruzes,2026-04-08 15:00:00,72,32.5,1868.09,Em Operação
+CH-10946,EQP-160,Trator Agro,Mogi das Cruzes,2026-05-07 01:00:00,72,7.4,1654.39,Em Operação
+CH-10947,EQP-180,Utilitário Leve,Jundiaí,2026-03-16 07:00:00,72,3.6,10176.97,Em Operação
+CH-10948,EQP-125,Utilitário Leve,Cuiabá,2026-04-15 21:00:00,72,27.2,1929.84,Em Manutenção
+CH-10949,EQP-135,Escavadeira Linha Amarela,Mogi das Cruzes,2026-02-18 05:00:00,48,19.9,6386.71,Em Manutenção
+CH-10950,EQP-100,Trator Agro,Uberlândia,2026-03-20 11:00:00,72,0.8,734.23,Em Manutenção
+CH-10951,EQP-107,Utilitário Leve,Ribeirão Preto,2026-04-03 14:00:00,24,14.4,1243.84,Em Operação
+CH-10952,EQP-212,Escavadeira Linha Amarela,Ribeirão Preto,2026-06-03 07:00:00,48,3.4,8166.47,Em Operação
+CH-10953,EQP-198,Caminhão Heavy Duty,Ribeirão Preto,2026-01-18 03:00:00,72,22.7,8363.42,Em Manutenção
+CH-10954,EQP-279,Utilitário Leve,Cuiabá,2026-04-06 14:00:00,24,15.1,4295.19,Em Manutenção
+CH-10955,EQP-146,Trator Agro,Jundiaí,2026-02-07 19:00:00,72,28.5,2822.63,Em Operação
+CH-10956,EQP-226,Trator Agro,Uberlândia,2026-03-28 16:00:00,24,49.1,9820.41,Em Operação
+CH-10957,EQP-155,Trator Agro,Cuiabá,2026-03-29 12:00:00,24,10.7,2840.11,Em Operação
+CH-10958,EQP-113,Caminhão Heavy Duty,Uberlândia,2026-02-19 17:00:00,24,98.2,6641.72,Em Operação
+CH-10959,EQP-127,Utilitário Leve,Uberlândia,2026-01-08 01:00:00,24,23.0,11628.04,Em Operação
+CH-10960,EQP-177,Utilitário Leve,Jundiaí,2026-06-18 12:00:00,48,28.9,2029.87,Em Operação
+CH-10961,EQP-229,Caminhão Heavy Duty,Ribeirão Preto,2026-05-14 12:00:00,48,34.2,11308.25,Em Operação
+CH-10962,EQP-208,Utilitário Leve,Jundiaí,2026-03-10 21:00:00,24,33.0,2439.85,Em Operação
+CH-10963,EQP-253,Caminhão Heavy Duty,Cuiabá,2026-06-21 14:00:00,72,21.5,6939.09,Em Operação
+CH-10964,EQP-113,Caminhão Heavy Duty,Cuiabá,2026-05-01 19:00:00,24,16.8,4710.99,Em Operação
+CH-10965,EQP-286,Caminhão Heavy Duty,Cuiabá,2026-03-05 09:00:00,48,1.7,11589.66,Em Operação
+CH-10966,EQP-155,Trator Agro,Jundiaí,2026-06-06 02:00:00,72,0.7,3500.44,Em Operação
+CH-10967,EQP-214,Utilitário Leve,Uberlândia,2026-06-05 18:00:00,48,13.3,4976.0,Em Operação
+CH-10968,EQP-106,Caminhão Heavy Duty,Uberlândia,2026-05-19 02:00:00,48,12.2,11799.46,Em Operação
+CH-10969,EQP-102,Utilitário Leve,Mogi das Cruzes,2026-05-01 21:00:00,72,14.7,6576.7,Em Operação
+CH-10970,EQP-210,Trator Agro,Cuiabá,2026-03-06 13:00:00,24,4.5,6180.77,Em Operação
+CH-10971,EQP-250,Caminhão Heavy Duty,Uberlândia,2026-04-17 07:00:00,24,40.2,3316.01,Em Operação
+CH-10972,EQP-206,Escavadeira Linha Amarela,Mogi das Cruzes,2026-05-27 22:00:00,24,58.3,8505.95,Em Manutenção
+CH-10973,EQP-117,Trator Agro,Uberlândia,2026-05-17 03:00:00,24,83.8,468.16,Em Operação
+CH-10974,EQP-137,Escavadeira Linha Amarela,Cuiabá,2026-06-04 19:00:00,72,20.3,879.3,Em Operação
+CH-10975,EQP-214,Utilitário Leve,Ribeirão Preto,2026-06-11 10:00:00,72,36.2,7312.5,Em Operação
+CH-10976,EQP-114,Utilitário Leve,Cuiabá,2026-06-21 10:00:00,72,58.0,4297.59,Em Manutenção
+CH-10977,EQP-291,Trator Agro,Jundiaí,2026-04-10 10:00:00,48,16.3,11453.8,Em Operação
+CH-10978,EQP-218,Utilitário Leve,Uberlândia,2026-03-23 01:00:00,72,11.1,10867.33,Em Operação
+CH-10979,EQP-127,Escavadeira Linha Amarela,Uberlândia,2026-05-23 16:00:00,24,82.8,8650.36,Em Operação
+CH-10980,EQP-138,Caminhão Heavy Duty,Jundiaí,2026-02-20 08:00:00,48,21.8,9872.3,Em Operação
+CH-10981,EQP-284,Caminhão Heavy Duty,Jundiaí,2026-05-21 01:00:00,24,20.6,8107.78,Em Manutenção
+CH-10982,EQP-116,Caminhão Heavy Duty,Ribeirão Preto,2026-03-24 14:00:00,24,5.9,1769.31,Em Operação
+CH-10983,EQP-185,Trator Agro,Uberlândia,2026-06-26 15:00:00,72,3.4,9256.86,Em Operação
+CH-10984,EQP-225,Utilitário Leve,Uberlândia,2026-04-22 03:00:00,72,55.4,2759.25,Em Operação
+CH-10985,EQP-143,Escavadeira Linha Amarela,Ribeirão Preto,2026-02-25 07:00:00,24,28.6,4084.28,Em Operação
+CH-10986,EQP-124,Utilitário Leve,Mogi das Cruzes,2026-06-28 08:00:00,24,11.8,9885.04,Em Operação
+CH-10987,EQP-244,Utilitário Leve,Ribeirão Preto,2026-06-14 04:00:00,48,6.4,6577.35,Em Operação
+CH-10988,EQP-112,Utilitário Leve,Cuiabá,2026-05-25 15:00:00,72,24.3,10361.31,Em Operação
+CH-10989,EQP-124,Caminhão Heavy Duty,Uberlândia,2026-06-06 12:00:00,48,26.3,2792.51,Em Operação
+CH-10990,EQP-167,Escavadeira Linha Amarela,Jundiaí,2026-06-10 06:00:00,48,7.0,7411.01,Em Operação
+CH-10991,EQP-237,Escavadeira Linha Amarela,Cuiabá,2026-03-01 19:00:00,48,57.2,1280.35,Em Operação
+CH-10992,EQP-166,Utilitário Leve,Uberlândia,2026-04-30 16:00:00,24,2.6,7823.81,Em Operação
+CH-10993,EQP-208,Caminhão Heavy Duty,Ribeirão Preto,2026-05-18 02:00:00,48,13.2,9221.65,Em Operação
+CH-10994,EQP-245,Caminhão Heavy Duty,Cuiabá,2026-06-24 04:00:00,48,34.2,7143.69,Em Operação
+CH-10995,EQP-210,Escavadeira Linha Amarela,Uberlândia,2026-01-23 18:00:00,24,9.6,3414.91,Em Operação
+CH-10996,EQP-210,Caminhão Heavy Duty,Mogi das Cruzes,2026-05-29 11:00:00,72,52.8,666.71,Em Operação
+CH-10997,EQP-133,Caminhão Heavy Duty,Mogi das Cruzes,2026-01-13 06:00:00,72,40.4,1697.55,Em Operação
+CH-10998,EQP-210,Caminhão Heavy Duty,Jundiaí,2026-04-11 08:00:00,48,46.7,7580.94,Em Operação
+CH-10999,EQP-107,Trator Agro,Uberlândia,2026-06-10 05:00:00,24,3.8,11232.72,Em Operação
