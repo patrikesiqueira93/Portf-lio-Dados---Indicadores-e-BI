@@ -8,6 +8,7 @@ O projeto adota a Arquitetura Medallion (Bronze, Silver e Gold), garantindo gove
 Camada Bronze (Raw Data): Captura e ingestão dos dados brutos operacionais e de cadastros em formato Parquet, preservando a integridade e o histórico do dado de origem.
 Camada Silver (Cleansed & Enriched): Limpeza, padronização de tipos de dados, tratamento de nulos, remoção de duplicidades e aplicação das regras de negócio (cálculo de tempos de atendimento em horas e criação de flags de estouro de SLA).
 Camada Gold (Analytics & Star Schema): Modelagem dimensional otimizada em arquivos Parquet prontos para consumo de alto desempenho no Power BI.
+
 2. Modelagem de Dados (Star Schema)
 A camada analítica no Power BI foi modelada sob o padrão dimensional Star Schema (Esquema Estrela) com relacionamentos  unidirecionais de alta eficiência:
 Tabela Fato:
@@ -17,6 +18,7 @@ dim_equipamento: Atributos detalhados dos ativos, cobrindo categorias (Caminhão
 dim_tempo: Calendário dinâmico em português (PT-BR) para análises temporais por ano, trimestre, mês e dia da semana.
 Tabela Técnica:
 _Medidas: Tabela repositório para centralização exclusiva e organização de todas as fórmulas DAX.
+
 3. Principais Medidas DAX Implementadas
 As métricas calculadas combinam regras de negócio operacionais e financeiras:
 Total de Chamados:
