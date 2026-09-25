@@ -43,10 +43,12 @@ KPI Cards Customizados via HTML Content (HTML/CSS):
 Criação de cartões dinâmicos desenvolvidos diretamente com marcas HTML e CSS inline (através do suplemento HTML Content), garantindo sombras suaves, accent bars laterais com formatação condicional de cores e tipografia responsiva sem dependência dos visuais nativos.
 Gráficos Declarativos em JSON / Vega-Lite via Deneb:
 Implementação do visual customizado Deneb para construir gráficos empilhados em especificação JSON/Vega-Lite, permitindo total controle sobre eixos, tooltips customizados e esquemas condicionais de cor.
+
 5. Estrutura e Objetivos das Páginas do Dashboard
 Página 1: Capa (Abertura Executiva)
 Objetivo: Ponto de entrada elegante para navegação executiva.
 Componentes: Título principal (PAINEL DE PERFORMANCE DE FROTAS), subtítulo com foco em indicadores operacionais e análise financeira, background SVG com marca d'água logística corporativa e botão nativo interativo com ação de navegação de página.
+
 Página 2: Visão Geral Operacional (Control Tower)
 Objetivo: Acompanhamento diário macro da operação, volumetria de ordens, custos e níveis globais de serviço.
 Componentes:
@@ -54,6 +56,7 @@ Sidebar: Filtros dinâmicos por Filial, Categoria e Ano, além de 3 Cards HTML p
 Gráfico de Custo por Categoria: Barras horizontais detalhando o impacto financeiro (OPEX) por tipo de ativo.
 Matriz de Filiais: Tabela operacional enriquecida com formatação condicional em barras de dados e ícones de status de SLA.
 Evolução Temporal: Gráfico de linhas combinando volume mensal de chamados e percentual de atendimento dentro da meta.
+
 Página 3: Análise de SLA & Gargalos Operacionais (Diagnóstico Causa-Raiz)
 Objetivo: Isolamento de ineficiências operacionais, identificação dos principais causadores de atrasos e impacto nos custos.
 Componentes:
